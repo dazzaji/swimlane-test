@@ -1,0 +1,2039 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" font-family="Arial" font-size="13" width="1681" height="3168">
+	<desc>UML diagram model</desc>
+	<g id="_g7CEUUFAEDSL87uVq2dOcw">
+		<defs>
+			<linearGradient id="greyGradient" x1="0%" y1="0%" x2="0%" y2="100%" spreadMethod="pad">
+				<stop offset="0%" stop-color="#FFFFFF" stop-opacity="1" />
+				<stop offset="100%" stop-color="#EEEEEE" stop-opacity="1" />
+				
+			</linearGradient>
+			<linearGradient id="packageGradient" x1="0%" y1="0%" x2="0%" y2="100%" spreadMethod="pad">
+				<stop offset="0%" stop-color="#FFFFFF" stop-opacity="1" />
+				<stop offset="100%" stop-color="#EFE9DE" stop-opacity="0.4" />
+				
+			</linearGradient>
+			<linearGradient id="executionSpecificationGradient" x1="0%" y1="0%" x2="0%" y2="100%" spreadMethod="pad">
+				<stop offset="0%" stop-color="#FFFFFF" stop-opacity="1" />
+				<stop offset="100%" stop-color="#EFE9DE" stop-opacity="1" />
+				
+			</linearGradient>
+			
+		</defs>
+		<g id="_pNxWkEFAEDSL87uVq2dOcw">
+			<polyline stroke-dasharray="10, 5" fill="none" stroke-width="1" stroke="#A29E9E" points="136,36  136,755 " />
+			<rect x="50" y="15" width="172" height="36" rx="2" ry="2" fill="url(#greyGradient)" stroke="#BBBBBB" stroke-width="1" />
+			<image x="67" y="26" width="16" height="16" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAMFBMVEX///9woMRAgLDi8P84e7Dp9P86fLDw9/88fbD3+/89frD+/v8/f7AAUpEAS4XA0+HHhLc3AAAAAXRSTlMAQObYZgAAAAFiS0dEDxi6ANkAAAAHdElNRQffCQcJATn2tNxUAAAAQElEQVQI12NgYFQCAQYGBiZjIDABMUKBIAzEKAeCChBjJhDMAjF2A8EeIAOo6xJYFxA8YICCDzDGAwwGMVIgAADwcBTlv8WhiQAAACV0RVh0ZGF0ZTpjcmVhdGUAMjAxNS0wOS0wN1QwOTowMTo1NyswMjowMF1TVBAAAAAldEVYdGRhdGU6bW9kaWZ5ADIwMTUtMDktMDdUMDk6MDE6NTcrMDI6MDAsDuysAAAAAElFTkSuQmCC" />
+			<text x="146" y="38" text-anchor="middle" font-style="normal" font-weight="bold" fill="#033656">SaveCakePrice.php</text>
+			
+		</g>
+		<g id="_qMJqYEFAEDSL87uVq2dOcw">
+			<polyline stroke-dasharray="10, 5" fill="none" stroke-width="1" stroke="#A29E9E" points="489,36  489,2095 " />
+			<rect x="363" y="15" width="252" height="36" rx="2" ry="2" fill="url(#greyGradient)" stroke="#BBBBBB" stroke-width="1" />
+			<image x="380" y="26" width="16" height="16" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAMFBMVEX///9woMRAgLDi8P84e7Dp9P86fLDw9/88fbD3+/89frD+/v8/f7AAUpEAS4XA0+HHhLc3AAAAAXRSTlMAQObYZgAAAAFiS0dEDxi6ANkAAAAHdElNRQffCQcJATn2tNxUAAAAQElEQVQI12NgYFQCAQYGBiZjIDABMUKBIAzEKAeCChBjJhDMAjF2A8EeIAOo6xJYFxA8YICCDzDGAwwGMVIgAADwcBTlv8WhiQAAACV0RVh0ZGF0ZTpjcmVhdGUAMjAxNS0wOS0wN1QwOTowMTo1NyswMjowMF1TVBAAAAAldEVYdGRhdGU6bW9kaWZ5ADIwMTUtMDktMDdUMDk6MDE6NTcrMDI6MDAsDuysAAAAAElFTkSuQmCC" />
+			<text x="499" y="38" text-anchor="middle" font-style="normal" font-weight="bold" fill="#033656">ApplicationGlobalFunctions.php</text>
+			
+		</g>
+		<g id="_rk_soEFAEDSL87uVq2dOcw">
+			<polyline stroke-dasharray="10, 5" fill="none" stroke-width="1" stroke="#A29E9E" points="737,36  737,2935 " />
+			<rect x="669" y="15" width="135" height="36" rx="2" ry="2" fill="url(#greyGradient)" stroke="#BBBBBB" stroke-width="1" />
+			<image x="686" y="26" width="16" height="16" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAMFBMVEX///9woMRAgLDi8P84e7Dp9P86fLDw9/88fbD3+/89frD+/v8/f7AAUpEAS4XA0+HHhLc3AAAAAXRSTlMAQObYZgAAAAFiS0dEDxi6ANkAAAAHdElNRQffCQcJATn2tNxUAAAAQElEQVQI12NgYFQCAQYGBiZjIDABMUKBIAzEKAeCChBjJhDMAjF2A8EeIAOo6xJYFxA8YICCDzDGAwwGMVIgAADwcBTlv8WhiQAAACV0RVh0ZGF0ZTpjcmVhdGUAMjAxNS0wOS0wN1QwOTowMTo1NyswMjowMF1TVBAAAAAldEVYdGRhdGU6bW9kaWZ5ADIwMTUtMDktMDdUMDk6MDE6NTcrMDI6MDAsDuysAAAAAElFTkSuQmCC" />
+			<text x="747" y="38" text-anchor="middle" font-style="normal" font-weight="bold" fill="#033656">database.php</text>
+			
+		</g>
+		<g id="_tegL8EFAEDSL87uVq2dOcw">
+			<polyline stroke-dasharray="10, 5" fill="none" stroke-width="1" stroke="#A29E9E" points="1163,36  1163,2685 " />
+			<rect x="1092" y="15" width="141" height="36" rx="2" ry="2" fill="url(#greyGradient)" stroke="#BBBBBB" stroke-width="1" />
+			<image x="1109" y="26" width="16" height="16" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAMFBMVEX///9woMRAgLDi8P84e7Dp9P86fLDw9/88fbD3+/89frD+/v8/f7AAUpEAS4XA0+HHhLc3AAAAAXRSTlMAQObYZgAAAAFiS0dEDxi6ANkAAAAHdElNRQffCQcJATn2tNxUAAAAQElEQVQI12NgYFQCAQYGBiZjIDABMUKBIAzEKAeCChBjJhDMAjF2A8EeIAOo6xJYFxA8YICCDzDGAwwGMVIgAADwcBTlv8WhiQAAACV0RVh0ZGF0ZTpjcmVhdGUAMjAxNS0wOS0wN1QwOTowMTo1NyswMjowMF1TVBAAAAAldEVYdGRhdGU6bW9kaWZ5ADIwMTUtMDktMDdUMDk6MDE6NTcrMDI6MDAsDuysAAAAAElFTkSuQmCC" />
+			<text x="1173" y="38" text-anchor="middle" font-style="normal" font-weight="bold" fill="#033656">CakePrice.php</text>
+			
+		</g>
+		<g id="_uN5BgEFAEDSL87uVq2dOcw">
+			<polyline stroke-dasharray="10, 5" fill="none" stroke-width="1" stroke="#A29E9E" points="1365,36  1365,2155 " />
+			<rect x="1312" y="15" width="105" height="36" rx="2" ry="2" fill="url(#greyGradient)" stroke="#BBBBBB" stroke-width="1" />
+			<image x="1329" y="26" width="16" height="16" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAMFBMVEX///9woMRAgLDi8P84e7Dp9P86fLDw9/88fbD3+/89frD+/v8/f7AAUpEAS4XA0+HHhLc3AAAAAXRSTlMAQObYZgAAAAFiS0dEDxi6ANkAAAAHdElNRQffCQcJATn2tNxUAAAAQElEQVQI12NgYFQCAQYGBiZjIDABMUKBIAzEKAeCChBjJhDMAjF2A8EeIAOo6xJYFxA8YICCDzDGAwwGMVIgAADwcBTlv8WhiQAAACV0RVh0ZGF0ZTpjcmVhdGUAMjAxNS0wOS0wN1QwOTowMTo1NyswMjowMF1TVBAAAAAldEVYdGRhdGU6bW9kaWZ5ADIwMTUtMDktMDdUMDk6MDE6NTcrMDI6MDAsDuysAAAAAElFTkSuQmCC" />
+			<text x="1375" y="38" text-anchor="middle" font-style="normal" font-weight="bold" fill="#033656">Item.php</text>
+			
+		</g>
+		<g id="_yUylcEFAEDSL87uVq2dOcw">
+			<polyline stroke-dasharray="10, 5" fill="none" stroke-width="1" stroke="#A29E9E" points="1562,36  1562,2865 " />
+			<rect x="1492" y="15" width="139" height="36" rx="2" ry="2" fill="url(#greyGradient)" stroke="#BBBBBB" stroke-width="1" />
+			<image x="1510" y="26" width="16" height="16" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAMFBMVEX///9woMRAgLDi8P84e7Dp9P86fLDw9/88fbD3+/89frD+/v8/f7AAUpEAS4XA0+HHhLc3AAAAAXRSTlMAQObYZgAAAAFiS0dEDxi6ANkAAAAHdElNRQffCQcJATn2tNxUAAAAQElEQVQI12NgYFQCAQYGBiZjIDABMUKBIAzEKAeCChBjJhDMAjF2A8EeIAOo6xJYFxA8YICCDzDGAwwGMVIgAADwcBTlv8WhiQAAACV0RVh0ZGF0ZTpjcmVhdGUAMjAxNS0wOS0wN1QwOTowMTo1NyswMjowMF1TVBAAAAAldEVYdGRhdGU6bW9kaWZ5ADIwMTUtMDktMDdUMDk6MDE6NTcrMDI6MDAsDuysAAAAAElFTkSuQmCC" />
+			<text x="1572" y="38" text-anchor="middle" font-style="normal" font-weight="bold" fill="#033656">AuditItem.php</text>
+			
+		</g>
+		<g id="_c64r0EFEEDSL87uVq2dOcw">
+			<polyline stroke-dasharray="10, 5" fill="none" stroke-width="1" stroke="#A29E9E" points="953,36  953,2955 " />
+			<rect x="862" y="15" width="181" height="36" rx="2" ry="2" fill="url(#greyGradient)" stroke="#BBBBBB" stroke-width="1" />
+			<image x="879" y="26" width="16" height="16" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAMFBMVEX///9woMRAgLDi8P84e7Dp9P86fLDw9/88fbD3+/89frD+/v8/f7AAUpEAS4XA0+HHhLc3AAAAAXRSTlMAQObYZgAAAAFiS0dEDxi6ANkAAAAHdElNRQffCQcJATn2tNxUAAAAQElEQVQI12NgYFQCAQYGBiZjIDABMUKBIAzEKAeCChBjJhDMAjF2A8EeIAOo6xJYFxA8YICCDzDGAwwGMVIgAADwcBTlv8WhiQAAACV0RVh0ZGF0ZTpjcmVhdGUAMjAxNS0wOS0wN1QwOTowMTo1NyswMjowMF1TVBAAAAAldEVYdGRhdGU6bW9kaWZ5ADIwMTUtMDktMDdUMDk6MDE6NTcrMDI6MDAsDuysAAAAAElFTkSuQmCC" />
+			<text x="963" y="38" text-anchor="middle" font-style="normal" font-weight="bold" fill="#033656">GlobalFunctions.php</text>
+			
+		</g>
+		<g id="__pUWkEFAEDSL87uVq2dOcw">
+			<rect x="128" y="98" width="16" height="3020" rx="2" ry="2" fill="url(#executionSpecificationGradient)" stroke="#c2b79f" stroke-width="1" />
+			
+		</g>
+		<g id="_Kk1B40FBEDSL87uVq2dOcw">
+			<rect x="481" y="220" width="16" height="90" rx="2" ry="2" fill="url(#executionSpecificationGradient)" stroke="#c2b79f" stroke-width="1" />
+			
+		</g>
+		<g id="_OuQ8dUFBEDSL87uVq2dOcw">
+			<rect x="729" y="242" width="16" height="50" rx="2" ry="2" fill="url(#executionSpecificationGradient)" stroke="#c2b79f" stroke-width="1" />
+			
+		</g>
+		<g id="_LlR81UFCEDSL87uVq2dOcw">
+			<rect x="481" y="404" width="16" height="80" rx="2" ry="2" fill="url(#executionSpecificationGradient)" stroke="#c2b79f" stroke-width="1" />
+			
+		</g>
+		<g id="_NqKls0FCEDSL87uVq2dOcw">
+			<rect x="729" y="419" width="16" height="50" rx="2" ry="2" fill="url(#executionSpecificationGradient)" stroke="#c2b79f" stroke-width="1" />
+			
+		</g>
+		<g id="_QnB_dUFCEDSL87uVq2dOcw">
+			<rect x="481" y="611" width="16" height="100" rx="2" ry="2" fill="url(#executionSpecificationGradient)" stroke="#c2b79f" stroke-width="1" />
+			
+		</g>
+		<g id="_RfOyxUFCEDSL87uVq2dOcw">
+			<rect x="729" y="631" width="16" height="50" rx="2" ry="2" fill="url(#executionSpecificationGradient)" stroke="#c2b79f" stroke-width="1" />
+			
+		</g>
+		<g id="_atRPo0FCEDSL87uVq2dOcw">
+			<rect x="481" y="818" width="16" height="100" rx="2" ry="2" fill="url(#executionSpecificationGradient)" stroke="#c2b79f" stroke-width="1" />
+			
+		</g>
+		<g id="_dYgG1UFCEDSL87uVq2dOcw">
+			<rect x="729" y="848" width="16" height="50" rx="2" ry="2" fill="url(#executionSpecificationGradient)" stroke="#c2b79f" stroke-width="1" />
+			
+		</g>
+		<g id="_heKUo0FCEDSL87uVq2dOcw">
+			<rect x="481" y="995" width="16" height="100" rx="2" ry="2" fill="url(#executionSpecificationGradient)" stroke="#c2b79f" stroke-width="1" />
+			
+		</g>
+		<g id="_kZby9EFCEDSL87uVq2dOcw">
+			<rect x="729" y="1023" width="16" height="50" rx="2" ry="2" fill="url(#executionSpecificationGradient)" stroke="#c2b79f" stroke-width="1" />
+			
+		</g>
+		<g id="_5aWA9UFCEDSL87uVq2dOcw">
+			<rect x="1155" y="1199" width="16" height="93" rx="2" ry="2" fill="url(#executionSpecificationGradient)" stroke="#c2b79f" stroke-width="1" />
+			
+		</g>
+		<g id="_ANvAU0FDEDSL87uVq2dOcw">
+			<rect x="1155" y="1349" width="16" height="1181" rx="2" ry="2" fill="url(#executionSpecificationGradient)" stroke="#c2b79f" stroke-width="1" />
+			
+		</g>
+		<g id="_cRAd00FDEDSL87uVq2dOcw">
+			<rect x="1357" y="1736" width="16" height="230" rx="2" ry="2" fill="url(#executionSpecificationGradient)" stroke="#c2b79f" stroke-width="1" />
+			
+		</g>
+		<g id="_wp8F00FDEDSL87uVq2dOcw">
+			<rect x="1357" y="1689" width="16" height="50" rx="2" ry="2" fill="url(#executionSpecificationGradient)" stroke="#c2b79f" stroke-width="1" />
+			
+		</g>
+		<g id="_mGgt40FEEDSL87uVq2dOcw">
+			<rect x="945" y="2578" width="16" height="50" rx="2" ry="2" fill="url(#executionSpecificationGradient)" stroke="#c2b79f" stroke-width="1" />
+			
+		</g>
+		<g id="_sxexFUFEEDSL87uVq2dOcw">
+			<rect x="1554" y="2725" width="16" height="50" rx="2" ry="2" fill="url(#executionSpecificationGradient)" stroke="#c2b79f" stroke-width="1" />
+			
+		</g>
+		<g id="_0ZfEQ0FEEDSL87uVq2dOcw">
+			<rect x="729" y="2834" width="16" height="130" rx="2" ry="2" fill="url(#executionSpecificationGradient)" stroke="#c2b79f" stroke-width="1" />
+			
+		</g>
+		<g id="_A3uDZEFBEDSL87uVq2dOcw">
+			<rect x="135" y="121" width="16" height="2970" rx="2" ry="2" fill="url(#executionSpecificationGradient)" stroke="#c2b79f" stroke-width="1" />
+			
+		</g>
+		<g id="_8G_NZkFCEDSL87uVq2dOcw">
+			<rect x="1162" y="1222" width="16" height="50" rx="2" ry="2" fill="url(#executionSpecificationGradient)" stroke="#c2b79f" stroke-width="1" />
+			
+		</g>
+		<g id="_LmclA0FDEDSL87uVq2dOcw">
+			<rect x="1162" y="1371" width="16" height="23" rx="2" ry="2" fill="url(#executionSpecificationGradient)" stroke="#c2b79f" stroke-width="1" />
+			
+		</g>
+		<g id="_Nolb40FDEDSL87uVq2dOcw">
+			<rect x="1162" y="1436" width="16" height="23" rx="2" ry="2" fill="url(#executionSpecificationGradient)" stroke="#c2b79f" stroke-width="1" />
+			
+		</g>
+		<g id="_O3CzFUFDEDSL87uVq2dOcw">
+			<rect x="1162" y="1503" width="16" height="23" rx="2" ry="2" fill="url(#executionSpecificationGradient)" stroke="#c2b79f" stroke-width="1" />
+			
+		</g>
+		<g id="_S1wrY0FDEDSL87uVq2dOcw">
+			<rect x="1162" y="1569" width="16" height="23" rx="2" ry="2" fill="url(#executionSpecificationGradient)" stroke="#c2b79f" stroke-width="1" />
+			
+		</g>
+		<g id="_UPHrBUFDEDSL87uVq2dOcw">
+			<rect x="1162" y="1632" width="16" height="30" rx="2" ry="2" fill="url(#executionSpecificationGradient)" stroke="#c2b79f" stroke-width="1" />
+			
+		</g>
+		<g id="_eRmck0FDEDSL87uVq2dOcw">
+			<rect x="1364" y="1760" width="16" height="23" rx="2" ry="2" fill="url(#executionSpecificationGradient)" stroke="#c2b79f" stroke-width="1" />
+			
+		</g>
+		<g id="_gDnz1EFDEDSL87uVq2dOcw">
+			<rect x="1364" y="1826" width="16" height="30" rx="2" ry="2" fill="url(#executionSpecificationGradient)" stroke="#c2b79f" stroke-width="1" />
+			
+		</g>
+		<g id="_hnidpUFDEDSL87uVq2dOcw">
+			<rect x="1364" y="1902" width="16" height="23" rx="2" ry="2" fill="url(#executionSpecificationGradient)" stroke="#c2b79f" stroke-width="1" />
+			
+		</g>
+		<g id="_BaJToUFEEDSL87uVq2dOcw">
+			<rect x="1162" y="1995" width="16" height="30" rx="2" ry="2" fill="url(#executionSpecificationGradient)" stroke="#c2b79f" stroke-width="1" />
+			
+		</g>
+		<g id="_Ga-wRUFEEDSL87uVq2dOcw">
+			<rect x="1162" y="2066" width="16" height="23" rx="2" ry="2" fill="url(#executionSpecificationGradient)" stroke="#c2b79f" stroke-width="1" />
+			
+		</g>
+		<g id="_H2wxxEFEEDSL87uVq2dOcw">
+			<rect x="1162" y="2125" width="16" height="23" rx="2" ry="2" fill="url(#executionSpecificationGradient)" stroke="#c2b79f" stroke-width="1" />
+			
+		</g>
+		<g id="_JzMpRUFEEDSL87uVq2dOcw">
+			<rect x="1162" y="2184" width="16" height="23" rx="2" ry="2" fill="url(#executionSpecificationGradient)" stroke="#c2b79f" stroke-width="1" />
+			
+		</g>
+		<g id="_LjdtBUFEEDSL87uVq2dOcw">
+			<rect x="1162" y="2246" width="16" height="23" rx="2" ry="2" fill="url(#executionSpecificationGradient)" stroke="#c2b79f" stroke-width="1" />
+			
+		</g>
+		<g id="_Q1iDkEFEEDSL87uVq2dOcw">
+			<rect x="1162" y="2311" width="16" height="30" rx="2" ry="2" fill="url(#executionSpecificationGradient)" stroke="#c2b79f" stroke-width="1" />
+			
+		</g>
+		<g id="_Ue0edEFEEDSL87uVq2dOcw">
+			<rect x="1162" y="2387" width="16" height="30" rx="2" ry="2" fill="url(#executionSpecificationGradient)" stroke="#c2b79f" stroke-width="1" />
+			
+		</g>
+		<g id="_WCvvVUFEEDSL87uVq2dOcw">
+			<rect x="1162" y="2460" width="16" height="30" rx="2" ry="2" fill="url(#executionSpecificationGradient)" stroke="#c2b79f" stroke-width="1" />
+			
+		</g>
+		<g id="_3aNDQEFEEDSL87uVq2dOcw">
+			<rect x="736" y="2865" width="16" height="50" rx="2" ry="2" fill="url(#executionSpecificationGradient)" stroke="#c2b79f" stroke-width="1" />
+			
+		</g>
+		<g id="_DTSG40FBEDSL87uVq2dOcw">
+			<rect x="142" y="160" width="16" height="2900" rx="2" ry="2" fill="url(#executionSpecificationGradient)" stroke="#c2b79f" stroke-width="1" />
+			
+		</g>
+		<g id="_OuQ8dkFBEDSL87uVq2dOcw">
+			<polyline stroke-dasharray="1, 2" fill="none" stroke-width="1" stroke="#000000" points="729,292 497,292" />
+			<g transform="translate(497,292)">
+				<g transform="rotate(-90)">
+					<polyline fill="none" stroke-width="1" stroke="#000000" points="-5,10 0,0 5,10" />
+					
+				</g>
+				
+			</g>
+			
+		</g>
+		<g id="_OuRjgEFBEDSL87uVq2dOcw">
+			<polyline fill="none" stroke-width="1" stroke="#000000" points="497,242 729,242" />
+			<g id="_OuRjgEFBEDSL87uVq2dOcw">
+				<text x="582" y="236" font-style="normal" fill="black">getPanSizes</text>
+				
+			</g>
+			<g transform="translate(729,242)">
+				<g transform="rotate(90)">
+					<polyline fill="#000000" stroke-width="1" stroke="#000000" points="-4,12 0,0 4,12 -4,12" />
+					
+				</g>
+				
+			</g>
+			
+		</g>
+		<g id="_NqKltEFCEDSL87uVq2dOcw">
+			<polyline stroke-dasharray="1, 2" fill="none" stroke-width="1" stroke="#000000" points="729,469 489,469" />
+			<g transform="translate(489,469)">
+				<g transform="rotate(-90)">
+					<polyline fill="none" stroke-width="1" stroke="#000000" points="-5,10 0,0 5,10" />
+					
+				</g>
+				
+			</g>
+			
+		</g>
+		<g id="_NqKltUFCEDSL87uVq2dOcw">
+			<polyline fill="none" stroke-width="1" stroke="#000000" points="489,419 729,419" />
+			<g id="_NqKltUFCEDSL87uVq2dOcw">
+				<text x="609" y="412" font-style="normal" fill="black">getPanShapes</text>
+				
+			</g>
+			<g transform="translate(729,419)">
+				<g transform="rotate(90)">
+					<polyline fill="#000000" stroke-width="1" stroke="#000000" points="-4,12 0,0 4,12 -4,12" />
+					
+				</g>
+				
+			</g>
+			
+		</g>
+		<g id="_RfOyxkFCEDSL87uVq2dOcw">
+			<polyline stroke-dasharray="1, 2" fill="none" stroke-width="1" stroke="#000000" points="729,681 497,681" />
+			<g transform="translate(497,681)">
+				<g transform="rotate(-90)">
+					<polyline fill="none" stroke-width="1" stroke="#000000" points="-5,10 0,0 5,10" />
+					
+				</g>
+				
+			</g>
+			
+		</g>
+		<g id="_RfPZ0EFCEDSL87uVq2dOcw">
+			<polyline fill="none" stroke-width="1" stroke="#000000" points="497,631 729,631" />
+			<g id="_RfPZ0EFCEDSL87uVq2dOcw">
+				<text x="613" y="624" font-style="normal" fill="black">getCakeDesigns</text>
+				
+			</g>
+			<g transform="translate(729,631)">
+				<g transform="rotate(90)">
+					<polyline fill="#000000" stroke-width="1" stroke="#000000" points="-4,12 0,0 4,12 -4,12" />
+					
+				</g>
+				
+			</g>
+			
+		</g>
+		<g id="_dYgt4EFCEDSL87uVq2dOcw">
+			<polyline stroke-dasharray="1, 2" fill="none" stroke-width="1" stroke="#000000" points="729,898 497,898" />
+			<g transform="translate(497,898)">
+				<g transform="rotate(-90)">
+					<polyline fill="none" stroke-width="1" stroke="#000000" points="-5,10 0,0 5,10" />
+					
+				</g>
+				
+			</g>
+			
+		</g>
+		<g id="_dYgt4UFCEDSL87uVq2dOcw">
+			<polyline fill="none" stroke-width="1" stroke="#000000" points="497,848 729,848" />
+			<g id="_dYgt4UFCEDSL87uVq2dOcw">
+				<text x="613" y="841" font-style="normal" fill="black">getCakeStyles</text>
+				
+			</g>
+			<g transform="translate(729,848)">
+				<g transform="rotate(90)">
+					<polyline fill="#000000" stroke-width="1" stroke="#000000" points="-4,12 0,0 4,12 -4,12" />
+					
+				</g>
+				
+			</g>
+			
+		</g>
+		<g id="_kZby9UFCEDSL87uVq2dOcw">
+			<polyline stroke-dasharray="1, 2" fill="none" stroke-width="1" stroke="#000000" points="729,1073 497,1073" />
+			<g transform="translate(497,1073)">
+				<g transform="rotate(-90)">
+					<polyline fill="none" stroke-width="1" stroke="#000000" points="-5,10 0,0 5,10" />
+					
+				</g>
+				
+			</g>
+			
+		</g>
+		<g id="_kZby9kFCEDSL87uVq2dOcw">
+			<polyline fill="none" stroke-width="1" stroke="#000000" points="497,1023 729,1023" />
+			<g id="_kZby9kFCEDSL87uVq2dOcw">
+				<text x="522" y="1016" font-style="normal" fill="black">getCakeFlavours</text>
+				
+			</g>
+			<g transform="translate(729,1023)">
+				<g transform="rotate(90)">
+					<polyline fill="#000000" stroke-width="1" stroke="#000000" points="-4,12 0,0 4,12 -4,12" />
+					
+				</g>
+				
+			</g>
+			
+		</g>
+		<g id="_wp8s4EFDEDSL87uVq2dOcw">
+			<polyline fill="none" stroke-width="1" stroke="#000000" points="1171,1689 1357,1689" />
+			<g id="_wp8s4EFDEDSL87uVq2dOcw">
+				<text x="1264" y="1682" font-style="normal" fill="black">call</text>
+				
+			</g>
+			<g transform="translate(1357,1689)">
+				<g transform="rotate(90)">
+					<polyline fill="#000000" stroke-width="1" stroke="#000000" points="-4,12 0,0 4,12 -4,12" />
+					
+				</g>
+				
+			</g>
+			
+		</g>
+		<g id="_0xrXQkFDEDSL87uVq2dOcw">
+			<polyline stroke-dasharray="1, 2" fill="none" stroke-width="1" stroke="#000000" points="1357,1966 1171,1966" />
+			<g id="_0xrXQkFDEDSL87uVq2dOcw">
+				<text x="1264" y="1898" font-style="normal" fill="black">reply27</text>
+				
+			</g>
+			<g transform="translate(1171,1966)">
+				<g transform="rotate(-90)">
+					<polyline fill="none" stroke-width="1" stroke="#000000" points="-5,10 0,0 5,10" />
+					
+				</g>
+				
+			</g>
+			
+		</g>
+		<g id="_A3uqcEFBEDSL87uVq2dOcw">
+			<polyline fill="none" stroke-width="1" stroke="#000000" points="144,107 177,106" />
+			
+		</g>
+		<g id="_A3uqcEFBEDSL87uVq2dOcw">
+			<polyline fill="none" stroke-width="1" stroke="#000000" points="177,106 177,121" />
+			<g id="_A3uqcEFBEDSL87uVq2dOcw">
+				<text x="177" y="107" font-style="normal" fill="black">saveCakePrice</text>
+				
+			</g>
+			
+		</g>
+		<g id="_A3uqcEFBEDSL87uVq2dOcw">
+			<polyline fill="none" stroke-width="1" stroke="#000000" points="177,121 151,121" />
+			<g transform="translate(151,121)">
+				<g transform="rotate(-90)">
+					<polyline fill="#000000" stroke-width="1" stroke="#000000" points="-4,12 0,0 4,12 -4,12" />
+					
+				</g>
+				
+			</g>
+			
+		</g>
+		<g id="_A3uDZUFBEDSL87uVq2dOcw">
+			<polyline stroke-dasharray="1, 2" fill="none" stroke-width="1" stroke="#000000" points="151,3091 170,3091" />
+			<polyline fill="none" stroke-width="1" stroke="#000000" points="-5,10 0,0 5,10" />
+			
+		</g>
+		<g id="_A3uDZUFBEDSL87uVq2dOcw">
+			<polyline stroke-dasharray="1, 2" fill="none" stroke-width="1" stroke="#000000" points="170,3091 170,3106" />
+			<g id="_A3uDZUFBEDSL87uVq2dOcw">
+				<text x="170" y="3092" font-style="normal" fill="black">reply</text>
+				
+			</g>
+			<polyline fill="none" stroke-width="1" stroke="#000000" points="-5,10 0,0 5,10" />
+			
+		</g>
+		<g id="_A3uDZUFBEDSL87uVq2dOcw">
+			<polyline stroke-dasharray="1, 2" fill="none" stroke-width="1" stroke="#000000" points="170,3106 144,3107" />
+			<g transform="translate(144,3107)">
+				<g transform="rotate(-92)">
+					<polyline fill="none" stroke-width="1" stroke="#000000" points="-5,10 0,0 5,10" />
+					
+				</g>
+				
+			</g>
+			
+		</g>
+		<g id="_I96HY0FBEDSL87uVq2dOcw">
+			<rect x="149" y="190" width="16" height="140" rx="2" ry="2" fill="url(#executionSpecificationGradient)" stroke="#c2b79f" stroke-width="1" />
+			
+		</g>
+		<g id="_DN-6tEFCEDSL87uVq2dOcw">
+			<rect x="149" y="389" width="16" height="130" rx="2" ry="2" fill="url(#executionSpecificationGradient)" stroke="#c2b79f" stroke-width="1" />
+			
+		</g>
+		<g id="_O99v4EFCEDSL87uVq2dOcw">
+			<rect x="149" y="579" width="16" height="160" rx="2" ry="2" fill="url(#executionSpecificationGradient)" stroke="#c2b79f" stroke-width="1" />
+			
+		</g>
+		<g id="_XRpdU0FCEDSL87uVq2dOcw">
+			<rect x="149" y="787" width="16" height="140" rx="2" ry="2" fill="url(#executionSpecificationGradient)" stroke="#c2b79f" stroke-width="1" />
+			
+		</g>
+		<g id="_gJGmNEFCEDSL87uVq2dOcw">
+			<rect x="149" y="972" width="16" height="160" rx="2" ry="2" fill="url(#executionSpecificationGradient)" stroke="#c2b79f" stroke-width="1" />
+			
+		</g>
+		<g id="_xJF8ckFCEDSL87uVq2dOcw">
+			<rect x="149" y="1178" width="16" height="130" rx="2" ry="2" fill="url(#executionSpecificationGradient)" stroke="#c2b79f" stroke-width="1" />
+			
+		</g>
+		<g id="_8G_0cEFCEDSL87uVq2dOcw">
+			<polyline fill="none" stroke-width="1" stroke="#000000" points="1171,1208 1202,1207" />
+			
+		</g>
+		<g id="_8G_0cEFCEDSL87uVq2dOcw">
+			<polyline fill="none" stroke-width="1" stroke="#000000" points="1202,1207 1202,1222" />
+			<g id="_8G_0cEFCEDSL87uVq2dOcw">
+				<text x="1203" y="1208" font-style="normal" fill="black">__construct</text>
+				
+			</g>
+			
+		</g>
+		<g id="_8G_0cEFCEDSL87uVq2dOcw">
+			<polyline fill="none" stroke-width="1" stroke="#000000" points="1202,1222 1178,1222" />
+			<g transform="translate(1178,1222)">
+				<g transform="rotate(-90)">
+					<polyline fill="#000000" stroke-width="1" stroke="#000000" points="-4,12 0,0 4,12 -4,12" />
+					
+				</g>
+				
+			</g>
+			
+		</g>
+		<g id="_8G_NZ0FCEDSL87uVq2dOcw">
+			<polyline stroke-dasharray="1, 2" fill="none" stroke-width="1" stroke="#000000" points="1178,1272 1195,1272" />
+			<polyline fill="none" stroke-width="1" stroke="#000000" points="-5,10 0,0 5,10" />
+			
+		</g>
+		<g id="_8G_NZ0FCEDSL87uVq2dOcw">
+			<polyline stroke-dasharray="1, 2" fill="none" stroke-width="1" stroke="#000000" points="1195,1272 1195,1287" />
+			<g id="_8G_NZ0FCEDSL87uVq2dOcw">
+				<text x="1195" y="1273" font-style="normal" fill="black">reply20</text>
+				
+			</g>
+			<polyline fill="none" stroke-width="1" stroke="#000000" points="-5,10 0,0 5,10" />
+			
+		</g>
+		<g id="_8G_NZ0FCEDSL87uVq2dOcw">
+			<polyline stroke-dasharray="1, 2" fill="none" stroke-width="1" stroke="#000000" points="1195,1287 1171,1288" />
+			<g transform="translate(1171,1288)">
+				<g transform="rotate(-92)">
+					<polyline fill="none" stroke-width="1" stroke="#000000" points="-5,10 0,0 5,10" />
+					
+				</g>
+				
+			</g>
+			
+		</g>
+		<g id="_LmdMEEFDEDSL87uVq2dOcw">
+			<polyline fill="none" stroke-width="1" stroke="#000000" points="1171,1357 1202,1356" />
+			
+		</g>
+		<g id="_LmdMEEFDEDSL87uVq2dOcw">
+			<polyline fill="none" stroke-width="1" stroke="#000000" points="1202,1356 1202,1371" />
+			<g id="_LmdMEEFDEDSL87uVq2dOcw">
+				<text x="1202" y="1357" font-style="normal" fill="black">removeAllPanSizes</text>
+				
+			</g>
+			
+		</g>
+		<g id="_LmdMEEFDEDSL87uVq2dOcw">
+			<polyline fill="none" stroke-width="1" stroke="#000000" points="1202,1371 1178,1371" />
+			<g transform="translate(1178,1371)">
+				<g transform="rotate(-90)">
+					<polyline fill="#000000" stroke-width="1" stroke="#000000" points="-4,12 0,0 4,12 -4,12" />
+					
+				</g>
+				
+			</g>
+			
+		</g>
+		<g id="_LmclBEFDEDSL87uVq2dOcw">
+			<polyline stroke-dasharray="1, 2" fill="none" stroke-width="1" stroke="#000000" points="1178,1394 1195,1394" />
+			<polyline fill="none" stroke-width="1" stroke="#000000" points="-5,10 0,0 5,10" />
+			
+		</g>
+		<g id="_LmclBEFDEDSL87uVq2dOcw">
+			<polyline stroke-dasharray="1, 2" fill="none" stroke-width="1" stroke="#000000" points="1195,1394 1195,1409" />
+			<g id="_LmclBEFDEDSL87uVq2dOcw">
+				<text x="1195" y="1395" font-style="normal" fill="black">reply22</text>
+				
+			</g>
+			<polyline fill="none" stroke-width="1" stroke="#000000" points="-5,10 0,0 5,10" />
+			
+		</g>
+		<g id="_LmclBEFDEDSL87uVq2dOcw">
+			<polyline stroke-dasharray="1, 2" fill="none" stroke-width="1" stroke="#000000" points="1195,1409 1171,1410" />
+			<g transform="translate(1171,1410)">
+				<g transform="rotate(-92)">
+					<polyline fill="none" stroke-width="1" stroke="#000000" points="-5,10 0,0 5,10" />
+					
+				</g>
+				
+			</g>
+			
+		</g>
+		<g id="_NomC8EFDEDSL87uVq2dOcw">
+			<polyline fill="none" stroke-width="1" stroke="#000000" points="1171,1422 1202,1421" />
+			
+		</g>
+		<g id="_NomC8EFDEDSL87uVq2dOcw">
+			<polyline fill="none" stroke-width="1" stroke="#000000" points="1202,1421 1202,1436" />
+			<g id="_NomC8EFDEDSL87uVq2dOcw">
+				<text x="1202" y="1422" font-style="normal" fill="black">removeAllPanShapes</text>
+				
+			</g>
+			
+		</g>
+		<g id="_NomC8EFDEDSL87uVq2dOcw">
+			<polyline fill="none" stroke-width="1" stroke="#000000" points="1202,1436 1178,1436" />
+			<g transform="translate(1178,1436)">
+				<g transform="rotate(-90)">
+					<polyline fill="#000000" stroke-width="1" stroke="#000000" points="-4,12 0,0 4,12 -4,12" />
+					
+				</g>
+				
+			</g>
+			
+		</g>
+		<g id="_Nolb5EFDEDSL87uVq2dOcw">
+			<polyline stroke-dasharray="1, 2" fill="none" stroke-width="1" stroke="#000000" points="1178,1459 1195,1459" />
+			<polyline fill="none" stroke-width="1" stroke="#000000" points="-5,10 0,0 5,10" />
+			
+		</g>
+		<g id="_Nolb5EFDEDSL87uVq2dOcw">
+			<polyline stroke-dasharray="1, 2" fill="none" stroke-width="1" stroke="#000000" points="1195,1459 1195,1474" />
+			<g id="_Nolb5EFDEDSL87uVq2dOcw">
+				<text x="1195" y="1460" font-style="normal" fill="black">reply23</text>
+				
+			</g>
+			<polyline fill="none" stroke-width="1" stroke="#000000" points="-5,10 0,0 5,10" />
+			
+		</g>
+		<g id="_Nolb5EFDEDSL87uVq2dOcw">
+			<polyline stroke-dasharray="1, 2" fill="none" stroke-width="1" stroke="#000000" points="1195,1474 1171,1475" />
+			<g transform="translate(1171,1475)">
+				<g transform="rotate(-92)">
+					<polyline fill="none" stroke-width="1" stroke="#000000" points="-5,10 0,0 5,10" />
+					
+				</g>
+				
+			</g>
+			
+		</g>
+		<g id="_O3DaIEFDEDSL87uVq2dOcw">
+			<polyline fill="none" stroke-width="1" stroke="#000000" points="1171,1489 1202,1488" />
+			
+		</g>
+		<g id="_O3DaIEFDEDSL87uVq2dOcw">
+			<polyline fill="none" stroke-width="1" stroke="#000000" points="1202,1488 1202,1503" />
+			<g id="_O3DaIEFDEDSL87uVq2dOcw">
+				<text x="1202" y="1489" font-style="normal" fill="black">removeAllDesigns</text>
+				
+			</g>
+			
+		</g>
+		<g id="_O3DaIEFDEDSL87uVq2dOcw">
+			<polyline fill="none" stroke-width="1" stroke="#000000" points="1202,1503 1178,1503" />
+			<g transform="translate(1178,1503)">
+				<g transform="rotate(-90)">
+					<polyline fill="#000000" stroke-width="1" stroke="#000000" points="-4,12 0,0 4,12 -4,12" />
+					
+				</g>
+				
+			</g>
+			
+		</g>
+		<g id="_O3CzFkFDEDSL87uVq2dOcw">
+			<polyline stroke-dasharray="1, 2" fill="none" stroke-width="1" stroke="#000000" points="1178,1526 1195,1526" />
+			<polyline fill="none" stroke-width="1" stroke="#000000" points="-5,10 0,0 5,10" />
+			
+		</g>
+		<g id="_O3CzFkFDEDSL87uVq2dOcw">
+			<polyline stroke-dasharray="1, 2" fill="none" stroke-width="1" stroke="#000000" points="1195,1526 1195,1541" />
+			<g id="_O3CzFkFDEDSL87uVq2dOcw">
+				<text x="1195" y="1527" font-style="normal" fill="black">reply24</text>
+				
+			</g>
+			<polyline fill="none" stroke-width="1" stroke="#000000" points="-5,10 0,0 5,10" />
+			
+		</g>
+		<g id="_O3CzFkFDEDSL87uVq2dOcw">
+			<polyline stroke-dasharray="1, 2" fill="none" stroke-width="1" stroke="#000000" points="1195,1541 1171,1542" />
+			<g transform="translate(1171,1542)">
+				<g transform="rotate(-92)">
+					<polyline fill="none" stroke-width="1" stroke="#000000" points="-5,10 0,0 5,10" />
+					
+				</g>
+				
+			</g>
+			
+		</g>
+		<g id="_S1xScEFDEDSL87uVq2dOcw">
+			<polyline fill="none" stroke-width="1" stroke="#000000" points="1171,1555 1202,1554" />
+			
+		</g>
+		<g id="_S1xScEFDEDSL87uVq2dOcw">
+			<polyline fill="none" stroke-width="1" stroke="#000000" points="1202,1554 1202,1569" />
+			<g id="_S1xScEFDEDSL87uVq2dOcw">
+				<text x="1202" y="1555" font-style="normal" fill="black">removeAllStyles</text>
+				
+			</g>
+			
+		</g>
+		<g id="_S1xScEFDEDSL87uVq2dOcw">
+			<polyline fill="none" stroke-width="1" stroke="#000000" points="1202,1569 1178,1569" />
+			<g transform="translate(1178,1569)">
+				<g transform="rotate(-90)">
+					<polyline fill="#000000" stroke-width="1" stroke="#000000" points="-4,12 0,0 4,12 -4,12" />
+					
+				</g>
+				
+			</g>
+			
+		</g>
+		<g id="_S1wrZEFDEDSL87uVq2dOcw">
+			<polyline stroke-dasharray="1, 2" fill="none" stroke-width="1" stroke="#000000" points="1178,1592 1195,1592" />
+			<polyline fill="none" stroke-width="1" stroke="#000000" points="-5,10 0,0 5,10" />
+			
+		</g>
+		<g id="_S1wrZEFDEDSL87uVq2dOcw">
+			<polyline stroke-dasharray="1, 2" fill="none" stroke-width="1" stroke="#000000" points="1195,1592 1195,1607" />
+			<g id="_S1wrZEFDEDSL87uVq2dOcw">
+				<text x="1195" y="1593" font-style="normal" fill="black">reply25</text>
+				
+			</g>
+			<polyline fill="none" stroke-width="1" stroke="#000000" points="-5,10 0,0 5,10" />
+			
+		</g>
+		<g id="_S1wrZEFDEDSL87uVq2dOcw">
+			<polyline stroke-dasharray="1, 2" fill="none" stroke-width="1" stroke="#000000" points="1195,1607 1171,1608" />
+			<g transform="translate(1171,1608)">
+				<g transform="rotate(-92)">
+					<polyline fill="none" stroke-width="1" stroke="#000000" points="-5,10 0,0 5,10" />
+					
+				</g>
+				
+			</g>
+			
+		</g>
+		<g id="_UPISEUFDEDSL87uVq2dOcw">
+			<polyline fill="none" stroke-width="1" stroke="#000000" points="1171,1618 1202,1617" />
+			
+		</g>
+		<g id="_UPISEUFDEDSL87uVq2dOcw">
+			<polyline fill="none" stroke-width="1" stroke="#000000" points="1202,1617 1202,1632" />
+			<g id="_UPISEUFDEDSL87uVq2dOcw">
+				<text x="1202" y="1618" font-style="normal" fill="black">removeAllFlavours</text>
+				
+			</g>
+			
+		</g>
+		<g id="_UPISEUFDEDSL87uVq2dOcw">
+			<polyline fill="none" stroke-width="1" stroke="#000000" points="1202,1632 1178,1632" />
+			<g transform="translate(1178,1632)">
+				<g transform="rotate(-90)">
+					<polyline fill="#000000" stroke-width="1" stroke="#000000" points="-4,12 0,0 4,12 -4,12" />
+					
+				</g>
+				
+			</g>
+			
+		</g>
+		<g id="_UPISEEFDEDSL87uVq2dOcw">
+			<polyline stroke-dasharray="1, 2" fill="none" stroke-width="1" stroke="#000000" points="1178,1662 1195,1662" />
+			<polyline fill="none" stroke-width="1" stroke="#000000" points="-5,10 0,0 5,10" />
+			
+		</g>
+		<g id="_UPISEEFDEDSL87uVq2dOcw">
+			<polyline stroke-dasharray="1, 2" fill="none" stroke-width="1" stroke="#000000" points="1195,1662 1195,1677" />
+			<g id="_UPISEEFDEDSL87uVq2dOcw">
+				<text x="1195" y="1663" font-style="normal" fill="black">reply26</text>
+				
+			</g>
+			<polyline fill="none" stroke-width="1" stroke="#000000" points="-5,10 0,0 5,10" />
+			
+		</g>
+		<g id="_UPISEEFDEDSL87uVq2dOcw">
+			<polyline stroke-dasharray="1, 2" fill="none" stroke-width="1" stroke="#000000" points="1195,1677 1171,1678" />
+			<g transform="translate(1171,1678)">
+				<g transform="rotate(-92)">
+					<polyline fill="none" stroke-width="1" stroke="#000000" points="-5,10 0,0 5,10" />
+					
+				</g>
+				
+			</g>
+			
+		</g>
+		<g id="_eRmclUFDEDSL87uVq2dOcw">
+			<polyline fill="none" stroke-width="1" stroke="#000000" points="1373,1746 1402,1745" />
+			
+		</g>
+		<g id="_eRmclUFDEDSL87uVq2dOcw">
+			<polyline fill="none" stroke-width="1" stroke="#000000" points="1402,1745 1402,1760" />
+			<g id="_eRmclUFDEDSL87uVq2dOcw">
+				<text x="1402" y="1746" font-style="normal" fill="black">setStatus</text>
+				
+			</g>
+			
+		</g>
+		<g id="_eRmclUFDEDSL87uVq2dOcw">
+			<polyline fill="none" stroke-width="1" stroke="#000000" points="1402,1760 1380,1760" />
+			<g transform="translate(1380,1760)">
+				<g transform="rotate(-90)">
+					<polyline fill="#000000" stroke-width="1" stroke="#000000" points="-4,12 0,0 4,12 -4,12" />
+					
+				</g>
+				
+			</g>
+			
+		</g>
+		<g id="_eRmclEFDEDSL87uVq2dOcw">
+			<polyline stroke-dasharray="1, 2" fill="none" stroke-width="1" stroke="#000000" points="1380,1783 1395,1783" />
+			<polyline fill="none" stroke-width="1" stroke="#000000" points="-5,10 0,0 5,10" />
+			
+		</g>
+		<g id="_eRmclEFDEDSL87uVq2dOcw">
+			<polyline stroke-dasharray="1, 2" fill="none" stroke-width="1" stroke="#000000" points="1395,1783 1395,1798" />
+			<g id="_eRmclEFDEDSL87uVq2dOcw">
+				<text x="1395" y="1784" font-style="normal" fill="black">reply28</text>
+				
+			</g>
+			<polyline fill="none" stroke-width="1" stroke="#000000" points="-5,10 0,0 5,10" />
+			
+		</g>
+		<g id="_eRmclEFDEDSL87uVq2dOcw">
+			<polyline stroke-dasharray="1, 2" fill="none" stroke-width="1" stroke="#000000" points="1395,1798 1373,1799" />
+			<g transform="translate(1373,1799)">
+				<g transform="rotate(-93)">
+					<polyline fill="none" stroke-width="1" stroke="#000000" points="-5,10 0,0 5,10" />
+					
+				</g>
+				
+			</g>
+			
+		</g>
+		<g id="_gDoa4EFDEDSL87uVq2dOcw">
+			<polyline fill="none" stroke-width="1" stroke="#000000" points="1373,1812 1402,1811" />
+			
+		</g>
+		<g id="_gDoa4EFDEDSL87uVq2dOcw">
+			<polyline fill="none" stroke-width="1" stroke="#000000" points="1402,1811 1402,1826" />
+			<g id="_gDoa4EFDEDSL87uVq2dOcw">
+				<text x="1402" y="1812" font-style="normal" fill="black">setName</text>
+				
+			</g>
+			
+		</g>
+		<g id="_gDoa4EFDEDSL87uVq2dOcw">
+			<polyline fill="none" stroke-width="1" stroke="#000000" points="1402,1826 1380,1826" />
+			<g transform="translate(1380,1826)">
+				<g transform="rotate(-90)">
+					<polyline fill="#000000" stroke-width="1" stroke="#000000" points="-4,12 0,0 4,12 -4,12" />
+					
+				</g>
+				
+			</g>
+			
+		</g>
+		<g id="_gDnz1UFDEDSL87uVq2dOcw">
+			<polyline stroke-dasharray="1, 2" fill="none" stroke-width="1" stroke="#000000" points="1380,1856 1395,1856" />
+			<polyline fill="none" stroke-width="1" stroke="#000000" points="-5,10 0,0 5,10" />
+			
+		</g>
+		<g id="_gDnz1UFDEDSL87uVq2dOcw">
+			<polyline stroke-dasharray="1, 2" fill="none" stroke-width="1" stroke="#000000" points="1395,1856 1395,1871" />
+			<g id="_gDnz1UFDEDSL87uVq2dOcw">
+				<text x="1395" y="1857" font-style="normal" fill="black">reply29</text>
+				
+			</g>
+			<polyline fill="none" stroke-width="1" stroke="#000000" points="-5,10 0,0 5,10" />
+			
+		</g>
+		<g id="_gDnz1UFDEDSL87uVq2dOcw">
+			<polyline stroke-dasharray="1, 2" fill="none" stroke-width="1" stroke="#000000" points="1395,1871 1373,1872" />
+			<g transform="translate(1373,1872)">
+				<g transform="rotate(-93)">
+					<polyline fill="none" stroke-width="1" stroke="#000000" points="-5,10 0,0 5,10" />
+					
+				</g>
+				
+			</g>
+			
+		</g>
+		<g id="_hnjEsEFDEDSL87uVq2dOcw">
+			<polyline fill="none" stroke-width="1" stroke="#000000" points="1373,1888 1402,1887" />
+			
+		</g>
+		<g id="_hnjEsEFDEDSL87uVq2dOcw">
+			<polyline fill="none" stroke-width="1" stroke="#000000" points="1402,1887 1402,1902" />
+			<g id="_hnjEsEFDEDSL87uVq2dOcw">
+				<text x="1402" y="1888" font-style="normal" fill="black">setDescription</text>
+				
+			</g>
+			
+		</g>
+		<g id="_hnjEsEFDEDSL87uVq2dOcw">
+			<polyline fill="none" stroke-width="1" stroke="#000000" points="1402,1902 1380,1902" />
+			<g transform="translate(1380,1902)">
+				<g transform="rotate(-90)">
+					<polyline fill="#000000" stroke-width="1" stroke="#000000" points="-4,12 0,0 4,12 -4,12" />
+					
+				</g>
+				
+			</g>
+			
+		</g>
+		<g id="_hnidpkFDEDSL87uVq2dOcw">
+			<polyline stroke-dasharray="1, 2" fill="none" stroke-width="1" stroke="#000000" points="1380,1925 1395,1925" />
+			<polyline fill="none" stroke-width="1" stroke="#000000" points="-5,10 0,0 5,10" />
+			
+		</g>
+		<g id="_hnidpkFDEDSL87uVq2dOcw">
+			<polyline stroke-dasharray="1, 2" fill="none" stroke-width="1" stroke="#000000" points="1395,1925 1395,1940" />
+			<g id="_hnidpkFDEDSL87uVq2dOcw">
+				<text x="1395" y="1926" font-style="normal" fill="black">reply30</text>
+				
+			</g>
+			<polyline fill="none" stroke-width="1" stroke="#000000" points="-5,10 0,0 5,10" />
+			
+		</g>
+		<g id="_hnidpkFDEDSL87uVq2dOcw">
+			<polyline stroke-dasharray="1, 2" fill="none" stroke-width="1" stroke="#000000" points="1395,1940 1373,1941" />
+			<g transform="translate(1373,1941)">
+				<g transform="rotate(-93)">
+					<polyline fill="none" stroke-width="1" stroke="#000000" points="-5,10 0,0 5,10" />
+					
+				</g>
+				
+			</g>
+			
+		</g>
+		<g id="_BaJ6sEFEEDSL87uVq2dOcw">
+			<polyline fill="none" stroke-width="1" stroke="#000000" points="1171,1981 1202,1980" />
+			
+		</g>
+		<g id="_BaJ6sEFEEDSL87uVq2dOcw">
+			<polyline fill="none" stroke-width="1" stroke="#000000" points="1202,1980 1202,1995" />
+			<g id="_BaJ6sEFEEDSL87uVq2dOcw">
+				<text x="1202" y="1981" font-style="normal" fill="black">setComments</text>
+				
+			</g>
+			
+		</g>
+		<g id="_BaJ6sEFEEDSL87uVq2dOcw">
+			<polyline fill="none" stroke-width="1" stroke="#000000" points="1202,1995 1178,1995" />
+			<g transform="translate(1178,1995)">
+				<g transform="rotate(-90)">
+					<polyline fill="#000000" stroke-width="1" stroke="#000000" points="-4,12 0,0 4,12 -4,12" />
+					
+				</g>
+				
+			</g>
+			
+		</g>
+		<g id="_BaJTokFEEDSL87uVq2dOcw">
+			<polyline stroke-dasharray="1, 2" fill="none" stroke-width="1" stroke="#000000" points="1178,2025 1195,2025" />
+			<polyline fill="none" stroke-width="1" stroke="#000000" points="-5,10 0,0 5,10" />
+			
+		</g>
+		<g id="_BaJTokFEEDSL87uVq2dOcw">
+			<polyline stroke-dasharray="1, 2" fill="none" stroke-width="1" stroke="#000000" points="1195,2025 1195,2040" />
+			<g id="_BaJTokFEEDSL87uVq2dOcw">
+				<text x="1195" y="2026" font-style="normal" fill="black">reply31</text>
+				
+			</g>
+			<polyline fill="none" stroke-width="1" stroke="#000000" points="-5,10 0,0 5,10" />
+			
+		</g>
+		<g id="_BaJTokFEEDSL87uVq2dOcw">
+			<polyline stroke-dasharray="1, 2" fill="none" stroke-width="1" stroke="#000000" points="1195,2040 1171,2041" />
+			<g transform="translate(1171,2041)">
+				<g transform="rotate(-92)">
+					<polyline fill="none" stroke-width="1" stroke="#000000" points="-5,10 0,0 5,10" />
+					
+				</g>
+				
+			</g>
+			
+		</g>
+		<g id="_Ga_XUEFEEDSL87uVq2dOcw">
+			<polyline fill="none" stroke-width="1" stroke="#000000" points="1171,2052 1202,2051" />
+			
+		</g>
+		<g id="_Ga_XUEFEEDSL87uVq2dOcw">
+			<polyline fill="none" stroke-width="1" stroke="#000000" points="1202,2051 1202,2066" />
+			<g id="_Ga_XUEFEEDSL87uVq2dOcw">
+				<text x="1202" y="2052" font-style="normal" fill="black">addPanSize</text>
+				
+			</g>
+			
+		</g>
+		<g id="_Ga_XUEFEEDSL87uVq2dOcw">
+			<polyline fill="none" stroke-width="1" stroke="#000000" points="1202,2066 1178,2066" />
+			<g transform="translate(1178,2066)">
+				<g transform="rotate(-90)">
+					<polyline fill="#000000" stroke-width="1" stroke="#000000" points="-4,12 0,0 4,12 -4,12" />
+					
+				</g>
+				
+			</g>
+			
+		</g>
+		<g id="_Ga-wRkFEEDSL87uVq2dOcw">
+			<polyline stroke-dasharray="1, 2" fill="none" stroke-width="1" stroke="#000000" points="1178,2089 1195,2089" />
+			<polyline fill="none" stroke-width="1" stroke="#000000" points="-5,10 0,0 5,10" />
+			
+		</g>
+		<g id="_Ga-wRkFEEDSL87uVq2dOcw">
+			<polyline stroke-dasharray="1, 2" fill="none" stroke-width="1" stroke="#000000" points="1195,2089 1195,2104" />
+			<g id="_Ga-wRkFEEDSL87uVq2dOcw">
+				<text x="1195" y="2090" font-style="normal" fill="black">reply32</text>
+				
+			</g>
+			<polyline fill="none" stroke-width="1" stroke="#000000" points="-5,10 0,0 5,10" />
+			
+		</g>
+		<g id="_Ga-wRkFEEDSL87uVq2dOcw">
+			<polyline stroke-dasharray="1, 2" fill="none" stroke-width="1" stroke="#000000" points="1195,2104 1171,2105" />
+			<g transform="translate(1171,2105)">
+				<g transform="rotate(-92)">
+					<polyline fill="none" stroke-width="1" stroke="#000000" points="-5,10 0,0 5,10" />
+					
+				</g>
+				
+			</g>
+			
+		</g>
+		<g id="_H2xY0UFEEDSL87uVq2dOcw">
+			<polyline fill="none" stroke-width="1" stroke="#000000" points="1171,2111 1202,2110" />
+			
+		</g>
+		<g id="_H2xY0UFEEDSL87uVq2dOcw">
+			<polyline fill="none" stroke-width="1" stroke="#000000" points="1202,2110 1202,2125" />
+			<g id="_H2xY0UFEEDSL87uVq2dOcw">
+				<text x="1202" y="2111" font-style="normal" fill="black">addPanShape</text>
+				
+			</g>
+			
+		</g>
+		<g id="_H2xY0UFEEDSL87uVq2dOcw">
+			<polyline fill="none" stroke-width="1" stroke="#000000" points="1202,2125 1178,2125" />
+			<g transform="translate(1178,2125)">
+				<g transform="rotate(-90)">
+					<polyline fill="#000000" stroke-width="1" stroke="#000000" points="-4,12 0,0 4,12 -4,12" />
+					
+				</g>
+				
+			</g>
+			
+		</g>
+		<g id="_H2xY0EFEEDSL87uVq2dOcw">
+			<polyline stroke-dasharray="1, 2" fill="none" stroke-width="1" stroke="#000000" points="1178,2148 1195,2148" />
+			<polyline fill="none" stroke-width="1" stroke="#000000" points="-5,10 0,0 5,10" />
+			
+		</g>
+		<g id="_H2xY0EFEEDSL87uVq2dOcw">
+			<polyline stroke-dasharray="1, 2" fill="none" stroke-width="1" stroke="#000000" points="1195,2148 1195,2163" />
+			<g id="_H2xY0EFEEDSL87uVq2dOcw">
+				<text x="1195" y="2149" font-style="normal" fill="black">reply33</text>
+				
+			</g>
+			<polyline fill="none" stroke-width="1" stroke="#000000" points="-5,10 0,0 5,10" />
+			
+		</g>
+		<g id="_H2xY0EFEEDSL87uVq2dOcw">
+			<polyline stroke-dasharray="1, 2" fill="none" stroke-width="1" stroke="#000000" points="1195,2163 1171,2164" />
+			<g transform="translate(1171,2164)">
+				<g transform="rotate(-92)">
+					<polyline fill="none" stroke-width="1" stroke="#000000" points="-5,10 0,0 5,10" />
+					
+				</g>
+				
+			</g>
+			
+		</g>
+		<g id="_JzN3YEFEEDSL87uVq2dOcw">
+			<polyline fill="none" stroke-width="1" stroke="#000000" points="1171,2170 1202,2169" />
+			
+		</g>
+		<g id="_JzN3YEFEEDSL87uVq2dOcw">
+			<polyline fill="none" stroke-width="1" stroke="#000000" points="1202,2169 1202,2184" />
+			<g id="_JzN3YEFEEDSL87uVq2dOcw">
+				<text x="1202" y="2170" font-style="normal" fill="black">addDesign</text>
+				
+			</g>
+			
+		</g>
+		<g id="_JzN3YEFEEDSL87uVq2dOcw">
+			<polyline fill="none" stroke-width="1" stroke="#000000" points="1202,2184 1178,2184" />
+			<g transform="translate(1178,2184)">
+				<g transform="rotate(-90)">
+					<polyline fill="#000000" stroke-width="1" stroke="#000000" points="-4,12 0,0 4,12 -4,12" />
+					
+				</g>
+				
+			</g>
+			
+		</g>
+		<g id="_JzNQUEFEEDSL87uVq2dOcw">
+			<polyline stroke-dasharray="1, 2" fill="none" stroke-width="1" stroke="#000000" points="1178,2207 1195,2207" />
+			<polyline fill="none" stroke-width="1" stroke="#000000" points="-5,10 0,0 5,10" />
+			
+		</g>
+		<g id="_JzNQUEFEEDSL87uVq2dOcw">
+			<polyline stroke-dasharray="1, 2" fill="none" stroke-width="1" stroke="#000000" points="1195,2207 1195,2222" />
+			<g id="_JzNQUEFEEDSL87uVq2dOcw">
+				<text x="1195" y="2208" font-style="normal" fill="black">reply34</text>
+				
+			</g>
+			<polyline fill="none" stroke-width="1" stroke="#000000" points="-5,10 0,0 5,10" />
+			
+		</g>
+		<g id="_JzNQUEFEEDSL87uVq2dOcw">
+			<polyline stroke-dasharray="1, 2" fill="none" stroke-width="1" stroke="#000000" points="1195,2222 1171,2223" />
+			<g transform="translate(1171,2223)">
+				<g transform="rotate(-92)">
+					<polyline fill="none" stroke-width="1" stroke="#000000" points="-5,10 0,0 5,10" />
+					
+				</g>
+				
+			</g>
+			
+		</g>
+		<g id="_LjeUEUFEEDSL87uVq2dOcw">
+			<polyline fill="none" stroke-width="1" stroke="#000000" points="1171,2232 1202,2231" />
+			
+		</g>
+		<g id="_LjeUEUFEEDSL87uVq2dOcw">
+			<polyline fill="none" stroke-width="1" stroke="#000000" points="1202,2231 1202,2246" />
+			<g id="_LjeUEUFEEDSL87uVq2dOcw">
+				<text x="1202" y="2232" font-style="normal" fill="black">addStyle</text>
+				
+			</g>
+			
+		</g>
+		<g id="_LjeUEUFEEDSL87uVq2dOcw">
+			<polyline fill="none" stroke-width="1" stroke="#000000" points="1202,2246 1178,2246" />
+			<g transform="translate(1178,2246)">
+				<g transform="rotate(-90)">
+					<polyline fill="#000000" stroke-width="1" stroke="#000000" points="-4,12 0,0 4,12 -4,12" />
+					
+				</g>
+				
+			</g>
+			
+		</g>
+		<g id="_LjeUEEFEEDSL87uVq2dOcw">
+			<polyline stroke-dasharray="1, 2" fill="none" stroke-width="1" stroke="#000000" points="1178,2269 1195,2269" />
+			<polyline fill="none" stroke-width="1" stroke="#000000" points="-5,10 0,0 5,10" />
+			
+		</g>
+		<g id="_LjeUEEFEEDSL87uVq2dOcw">
+			<polyline stroke-dasharray="1, 2" fill="none" stroke-width="1" stroke="#000000" points="1195,2269 1195,2284" />
+			<g id="_LjeUEEFEEDSL87uVq2dOcw">
+				<text x="1195" y="2270" font-style="normal" fill="black">reply35</text>
+				
+			</g>
+			<polyline fill="none" stroke-width="1" stroke="#000000" points="-5,10 0,0 5,10" />
+			
+		</g>
+		<g id="_LjeUEEFEEDSL87uVq2dOcw">
+			<polyline stroke-dasharray="1, 2" fill="none" stroke-width="1" stroke="#000000" points="1195,2284 1171,2285" />
+			<g transform="translate(1171,2285)">
+				<g transform="rotate(-92)">
+					<polyline fill="none" stroke-width="1" stroke="#000000" points="-5,10 0,0 5,10" />
+					
+				</g>
+				
+			</g>
+			
+		</g>
+		<g id="_Q1iqoEFEEDSL87uVq2dOcw">
+			<polyline fill="none" stroke-width="1" stroke="#000000" points="1171,2297 1202,2296" />
+			
+		</g>
+		<g id="_Q1iqoEFEEDSL87uVq2dOcw">
+			<polyline fill="none" stroke-width="1" stroke="#000000" points="1202,2296 1202,2311" />
+			<g id="_Q1iqoEFEEDSL87uVq2dOcw">
+				<text x="1202" y="2297" font-style="normal" fill="black">addFlavour</text>
+				
+			</g>
+			
+		</g>
+		<g id="_Q1iqoEFEEDSL87uVq2dOcw">
+			<polyline fill="none" stroke-width="1" stroke="#000000" points="1202,2311 1178,2311" />
+			<g transform="translate(1178,2311)">
+				<g transform="rotate(-90)">
+					<polyline fill="#000000" stroke-width="1" stroke="#000000" points="-4,12 0,0 4,12 -4,12" />
+					
+				</g>
+				
+			</g>
+			
+		</g>
+		<g id="_Q1iDkUFEEDSL87uVq2dOcw">
+			<polyline stroke-dasharray="1, 2" fill="none" stroke-width="1" stroke="#000000" points="1178,2341 1195,2341" />
+			<polyline fill="none" stroke-width="1" stroke="#000000" points="-5,10 0,0 5,10" />
+			
+		</g>
+		<g id="_Q1iDkUFEEDSL87uVq2dOcw">
+			<polyline stroke-dasharray="1, 2" fill="none" stroke-width="1" stroke="#000000" points="1195,2341 1195,2356" />
+			<g id="_Q1iDkUFEEDSL87uVq2dOcw">
+				<text x="1195" y="2342" font-style="normal" fill="black">reply36</text>
+				
+			</g>
+			<polyline fill="none" stroke-width="1" stroke="#000000" points="-5,10 0,0 5,10" />
+			
+		</g>
+		<g id="_Q1iDkUFEEDSL87uVq2dOcw">
+			<polyline stroke-dasharray="1, 2" fill="none" stroke-width="1" stroke="#000000" points="1195,2356 1171,2357" />
+			<g transform="translate(1171,2357)">
+				<g transform="rotate(-92)">
+					<polyline fill="none" stroke-width="1" stroke="#000000" points="-5,10 0,0 5,10" />
+					
+				</g>
+				
+			</g>
+			
+		</g>
+		<g id="_Ue1FgEFEEDSL87uVq2dOcw">
+			<polyline fill="none" stroke-width="1" stroke="#000000" points="1171,2373 1202,2372" />
+			
+		</g>
+		<g id="_Ue1FgEFEEDSL87uVq2dOcw">
+			<polyline fill="none" stroke-width="1" stroke="#000000" points="1202,2372 1202,2387" />
+			<g id="_Ue1FgEFEEDSL87uVq2dOcw">
+				<text x="1202" y="2373" font-style="normal" fill="black">setWholesalePrice</text>
+				
+			</g>
+			
+		</g>
+		<g id="_Ue1FgEFEEDSL87uVq2dOcw">
+			<polyline fill="none" stroke-width="1" stroke="#000000" points="1202,2387 1178,2387" />
+			<g transform="translate(1178,2387)">
+				<g transform="rotate(-90)">
+					<polyline fill="#000000" stroke-width="1" stroke="#000000" points="-4,12 0,0 4,12 -4,12" />
+					
+				</g>
+				
+			</g>
+			
+		</g>
+		<g id="_Ue0edUFEEDSL87uVq2dOcw">
+			<polyline stroke-dasharray="1, 2" fill="none" stroke-width="1" stroke="#000000" points="1178,2417 1195,2417" />
+			<polyline fill="none" stroke-width="1" stroke="#000000" points="-5,10 0,0 5,10" />
+			
+		</g>
+		<g id="_Ue0edUFEEDSL87uVq2dOcw">
+			<polyline stroke-dasharray="1, 2" fill="none" stroke-width="1" stroke="#000000" points="1195,2417 1195,2432" />
+			<g id="_Ue0edUFEEDSL87uVq2dOcw">
+				<text x="1195" y="2418" font-style="normal" fill="black">reply37</text>
+				
+			</g>
+			<polyline fill="none" stroke-width="1" stroke="#000000" points="-5,10 0,0 5,10" />
+			
+		</g>
+		<g id="_Ue0edUFEEDSL87uVq2dOcw">
+			<polyline stroke-dasharray="1, 2" fill="none" stroke-width="1" stroke="#000000" points="1195,2432 1171,2433" />
+			<g transform="translate(1171,2433)">
+				<g transform="rotate(-92)">
+					<polyline fill="none" stroke-width="1" stroke="#000000" points="-5,10 0,0 5,10" />
+					
+				</g>
+				
+			</g>
+			
+		</g>
+		<g id="_WCwWYEFEEDSL87uVq2dOcw">
+			<polyline fill="none" stroke-width="1" stroke="#000000" points="1171,2446 1202,2445" />
+			
+		</g>
+		<g id="_WCwWYEFEEDSL87uVq2dOcw">
+			<polyline fill="none" stroke-width="1" stroke="#000000" points="1202,2445 1202,2460" />
+			<g id="_WCwWYEFEEDSL87uVq2dOcw">
+				<text x="1202" y="2446" font-style="normal" fill="black">setRetailPrice</text>
+				
+			</g>
+			
+		</g>
+		<g id="_WCwWYEFEEDSL87uVq2dOcw">
+			<polyline fill="none" stroke-width="1" stroke="#000000" points="1202,2460 1178,2460" />
+			<g transform="translate(1178,2460)">
+				<g transform="rotate(-90)">
+					<polyline fill="#000000" stroke-width="1" stroke="#000000" points="-4,12 0,0 4,12 -4,12" />
+					
+				</g>
+				
+			</g>
+			
+		</g>
+		<g id="_WCvvVkFEEDSL87uVq2dOcw">
+			<polyline stroke-dasharray="1, 2" fill="none" stroke-width="1" stroke="#000000" points="1178,2490 1195,2490" />
+			<polyline fill="none" stroke-width="1" stroke="#000000" points="-5,10 0,0 5,10" />
+			
+		</g>
+		<g id="_WCvvVkFEEDSL87uVq2dOcw">
+			<polyline stroke-dasharray="1, 2" fill="none" stroke-width="1" stroke="#000000" points="1195,2490 1195,2505" />
+			<g id="_WCvvVkFEEDSL87uVq2dOcw">
+				<text x="1195" y="2491" font-style="normal" fill="black">reply38</text>
+				
+			</g>
+			<polyline fill="none" stroke-width="1" stroke="#000000" points="-5,10 0,0 5,10" />
+			
+		</g>
+		<g id="_WCvvVkFEEDSL87uVq2dOcw">
+			<polyline stroke-dasharray="1, 2" fill="none" stroke-width="1" stroke="#000000" points="1195,2505 1171,2506" />
+			<g transform="translate(1171,2506)">
+				<g transform="rotate(-92)">
+					<polyline fill="none" stroke-width="1" stroke="#000000" points="-5,10 0,0 5,10" />
+					
+				</g>
+				
+			</g>
+			
+		</g>
+		<g id="_n-wo8EFEEDSL87uVq2dOcw">
+			<rect x="149" y="2661" width="16" height="23" rx="2" ry="2" fill="url(#executionSpecificationGradient)" stroke="#c2b79f" stroke-width="1" />
+			
+		</g>
+		<g id="_yC0H1EFEEDSL87uVq2dOcw">
+			<rect x="149" y="2822" width="16" height="160" rx="2" ry="2" fill="url(#executionSpecificationGradient)" stroke="#c2b79f" stroke-width="1" />
+			
+		</g>
+		<g id="_3aNqUEFEEDSL87uVq2dOcw">
+			<polyline fill="none" stroke-width="1" stroke="#000000" points="745,2851 776,2850" />
+			
+		</g>
+		<g id="_3aNqUEFEEDSL87uVq2dOcw">
+			<polyline fill="none" stroke-width="1" stroke="#000000" points="776,2850 776,2865" />
+			<g id="_3aNqUEFEEDSL87uVq2dOcw">
+				<text x="776" y="2851" font-style="normal" fill="black">createNewCakePrice</text>
+				
+			</g>
+			
+		</g>
+		<g id="_3aNqUEFEEDSL87uVq2dOcw">
+			<polyline fill="none" stroke-width="1" stroke="#000000" points="776,2865 752,2865" />
+			<g transform="translate(752,2865)">
+				<g transform="rotate(-90)">
+					<polyline fill="#000000" stroke-width="1" stroke="#000000" points="-4,12 0,0 4,12 -4,12" />
+					
+				</g>
+				
+			</g>
+			
+		</g>
+		<g id="_3aNDQUFEEDSL87uVq2dOcw">
+			<polyline stroke-dasharray="1, 2" fill="none" stroke-width="1" stroke="#000000" points="752,2915 769,2915" />
+			<polyline fill="none" stroke-width="1" stroke="#000000" points="-5,10 0,0 5,10" />
+			
+		</g>
+		<g id="_3aNDQUFEEDSL87uVq2dOcw">
+			<polyline stroke-dasharray="1, 2" fill="none" stroke-width="1" stroke="#000000" points="769,2915 769,2930" />
+			<g id="_3aNDQUFEEDSL87uVq2dOcw">
+				<text x="769" y="2916" font-style="normal" fill="black">reply44</text>
+				
+			</g>
+			<polyline fill="none" stroke-width="1" stroke="#000000" points="-5,10 0,0 5,10" />
+			
+		</g>
+		<g id="_3aNDQUFEEDSL87uVq2dOcw">
+			<polyline stroke-dasharray="1, 2" fill="none" stroke-width="1" stroke="#000000" points="769,2930 745,2931" />
+			<g transform="translate(745,2931)">
+				<g transform="rotate(-92)">
+					<polyline fill="none" stroke-width="1" stroke="#000000" points="-5,10 0,0 5,10" />
+					
+				</g>
+				
+			</g>
+			
+		</g>
+		<g id="_DTSG5UFBEDSL87uVq2dOcw">
+			<polyline fill="none" stroke-width="1" stroke="#000000" points="151,146 183,145" />
+			
+		</g>
+		<g id="_DTSG5UFBEDSL87uVq2dOcw">
+			<polyline fill="none" stroke-width="1" stroke="#000000" points="183,145 183,160" />
+			<g id="_DTSG5UFBEDSL87uVq2dOcw">
+				<text x="183" y="146" font-style="normal" fill="black">getCakePriceFormInput</text>
+				
+			</g>
+			
+		</g>
+		<g id="_DTSG5UFBEDSL87uVq2dOcw">
+			<polyline fill="none" stroke-width="1" stroke="#000000" points="183,160 158,160" />
+			<g transform="translate(158,160)">
+				<g transform="rotate(-90)">
+					<polyline fill="#000000" stroke-width="1" stroke="#000000" points="-4,12 0,0 4,12 -4,12" />
+					
+				</g>
+				
+			</g>
+			
+		</g>
+		<g id="_DTSG5EFBEDSL87uVq2dOcw">
+			<polyline stroke-dasharray="1, 2" fill="none" stroke-width="1" stroke="#000000" points="158,3060 176,3060" />
+			<polyline fill="none" stroke-width="1" stroke="#000000" points="-5,10 0,0 5,10" />
+			
+		</g>
+		<g id="_DTSG5EFBEDSL87uVq2dOcw">
+			<polyline stroke-dasharray="1, 2" fill="none" stroke-width="1" stroke="#000000" points="176,3060 176,3075" />
+			<g id="_DTSG5EFBEDSL87uVq2dOcw">
+				<text x="176" y="3063" font-style="normal" fill="black">reply2</text>
+				
+			</g>
+			<polyline fill="none" stroke-width="1" stroke="#000000" points="-5,10 0,0 5,10" />
+			
+		</g>
+		<g id="_DTSG5EFBEDSL87uVq2dOcw">
+			<polyline stroke-dasharray="1, 2" fill="none" stroke-width="1" stroke="#000000" points="176,3075 151,3076" />
+			<g transform="translate(151,3076)">
+				<g transform="rotate(-92)">
+					<polyline fill="none" stroke-width="1" stroke="#000000" points="-5,10 0,0 5,10" />
+					
+				</g>
+				
+			</g>
+			
+		</g>
+		<g id="_ANvnYEFDEDSL87uVq2dOcw">
+			<polyline stroke-dasharray="1, 2" fill="none" stroke-width="1" stroke="#000000" points="1155,2530 158,2530" />
+			<g transform="translate(158,2530)">
+				<g transform="rotate(-90)">
+					<polyline fill="none" stroke-width="1" stroke="#000000" points="-5,10 0,0 5,10" />
+					
+				</g>
+				
+			</g>
+			
+		</g>
+		<g id="_ANvnYUFDEDSL87uVq2dOcw">
+			<polyline fill="none" stroke-width="1" stroke="#000000" points="158,1349 1155,1349" />
+			<g id="_ANvnYUFDEDSL87uVq2dOcw">
+				<text x="657" y="1342" font-style="normal" fill="black">CakePrice</text>
+				
+			</g>
+			<g transform="translate(1155,1349)">
+				<g transform="rotate(90)">
+					<polyline fill="#000000" stroke-width="1" stroke="#000000" points="-4,12 0,0 4,12 -4,12" />
+					
+				</g>
+				
+			</g>
+			
+		</g>
+		<g id="_mGhU8EFEEDSL87uVq2dOcw">
+			<polyline stroke-dasharray="1, 2" fill="none" stroke-width="1" stroke="#000000" points="945,2628 158,2628" />
+			<g transform="translate(158,2628)">
+				<g transform="rotate(-90)">
+					<polyline fill="none" stroke-width="1" stroke="#000000" points="-5,10 0,0 5,10" />
+					
+				</g>
+				
+			</g>
+			
+		</g>
+		<g id="_mGijEEFEEDSL87uVq2dOcw">
+			<polyline fill="none" stroke-width="1" stroke="#000000" points="158,2578 945,2578" />
+			<g id="_mGijEEFEEDSL87uVq2dOcw">
+				<text x="552" y="2571" font-style="normal" fill="black">getDatabase</text>
+				
+			</g>
+			<g transform="translate(945,2578)">
+				<g transform="rotate(90)">
+					<polyline fill="#000000" stroke-width="1" stroke="#000000" points="-4,12 0,0 4,12 -4,12" />
+					
+				</g>
+				
+			</g>
+			
+		</g>
+		<g id="_sxexFkFEEDSL87uVq2dOcw">
+			<polyline stroke-dasharray="1, 2" fill="none" stroke-width="1" stroke="#000000" points="1554,2775 158,2775" />
+			<g transform="translate(158,2775)">
+				<g transform="rotate(-90)">
+					<polyline fill="none" stroke-width="1" stroke="#000000" points="-5,10 0,0 5,10" />
+					
+				</g>
+				
+			</g>
+			
+		</g>
+		<g id="_sxfYIEFEEDSL87uVq2dOcw">
+			<polyline fill="none" stroke-width="1" stroke="#000000" points="158,2725 1554,2725" />
+			<g id="_sxfYIEFEEDSL87uVq2dOcw">
+				<text x="857" y="2718" font-style="normal" fill="black">updateLastModifiedByInformation</text>
+				
+			</g>
+			<g transform="translate(1554,2725)">
+				<g transform="rotate(90)">
+					<polyline fill="#000000" stroke-width="1" stroke="#000000" points="-4,12 0,0 4,12 -4,12" />
+					
+				</g>
+				
+			</g>
+			
+		</g>
+		<g id="_I96HZUFBEDSL87uVq2dOcw">
+			<polyline fill="none" stroke-width="1" stroke="#000000" points="158,176 190,175" />
+			
+		</g>
+		<g id="_I96HZUFBEDSL87uVq2dOcw">
+			<polyline fill="none" stroke-width="1" stroke="#000000" points="190,175 190,190" />
+			<g id="_I96HZUFBEDSL87uVq2dOcw">
+				<text x="190" y="176" font-style="normal" fill="black">getPanSizes</text>
+				
+			</g>
+			
+		</g>
+		<g id="_I96HZUFBEDSL87uVq2dOcw">
+			<polyline fill="none" stroke-width="1" stroke="#000000" points="190,190 165,190" />
+			<g transform="translate(165,190)">
+				<g transform="rotate(-90)">
+					<polyline fill="#000000" stroke-width="1" stroke="#000000" points="-4,12 0,0 4,12 -4,12" />
+					
+				</g>
+				
+			</g>
+			
+		</g>
+		<g id="_I96HZEFBEDSL87uVq2dOcw">
+			<polyline stroke-dasharray="1, 2" fill="none" stroke-width="1" stroke="#000000" points="165,330 183,330" />
+			<polyline fill="none" stroke-width="1" stroke="#000000" points="-5,10 0,0 5,10" />
+			
+		</g>
+		<g id="_I96HZEFBEDSL87uVq2dOcw">
+			<polyline stroke-dasharray="1, 2" fill="none" stroke-width="1" stroke="#000000" points="183,330 183,345" />
+			<g id="_I96HZEFBEDSL87uVq2dOcw">
+				<text x="181" y="342" font-style="normal" fill="black">reply3</text>
+				
+			</g>
+			<polyline fill="none" stroke-width="1" stroke="#000000" points="-5,10 0,0 5,10" />
+			
+		</g>
+		<g id="_I96HZEFBEDSL87uVq2dOcw">
+			<polyline stroke-dasharray="1, 2" fill="none" stroke-width="1" stroke="#000000" points="183,345 158,346" />
+			<g transform="translate(158,346)">
+				<g transform="rotate(-92)">
+					<polyline fill="none" stroke-width="1" stroke="#000000" points="-5,10 0,0 5,10" />
+					
+				</g>
+				
+			</g>
+			
+		</g>
+		<g id="_Kk1B5EFBEDSL87uVq2dOcw">
+			<polyline stroke-dasharray="1, 2" fill="none" stroke-width="1" stroke="#000000" points="481,310 165,310" />
+			<g transform="translate(165,310)">
+				<g transform="rotate(-90)">
+					<polyline fill="none" stroke-width="1" stroke="#000000" points="-5,10 0,0 5,10" />
+					
+				</g>
+				
+			</g>
+			
+		</g>
+		<g id="_Kk1B5UFBEDSL87uVq2dOcw">
+			<polyline fill="none" stroke-width="1" stroke="#000000" points="165,220 481,220" />
+			<g id="_Kk1B5UFBEDSL87uVq2dOcw">
+				<text x="262" y="213" font-style="normal" fill="black">getPanSizesFromDatabase</text>
+				
+			</g>
+			<g transform="translate(481,220)">
+				<g transform="rotate(90)">
+					<polyline fill="#000000" stroke-width="1" stroke="#000000" points="-4,12 0,0 4,12 -4,12" />
+					
+				</g>
+				
+			</g>
+			
+		</g>
+		<g id="_DN-6tkFCEDSL87uVq2dOcw">
+			<polyline fill="none" stroke-width="1" stroke="#000000" points="158,375 190,374" />
+			
+		</g>
+		<g id="_DN-6tkFCEDSL87uVq2dOcw">
+			<polyline fill="none" stroke-width="1" stroke="#000000" points="190,374 190,389" />
+			<g id="_DN-6tkFCEDSL87uVq2dOcw">
+				<text x="190" y="375" font-style="normal" fill="black">getPanShapes</text>
+				
+			</g>
+			
+		</g>
+		<g id="_DN-6tkFCEDSL87uVq2dOcw">
+			<polyline fill="none" stroke-width="1" stroke="#000000" points="190,389 165,389" />
+			<g transform="translate(165,389)">
+				<g transform="rotate(-90)">
+					<polyline fill="#000000" stroke-width="1" stroke="#000000" points="-4,12 0,0 4,12 -4,12" />
+					
+				</g>
+				
+			</g>
+			
+		</g>
+		<g id="_DN-6tUFCEDSL87uVq2dOcw">
+			<polyline stroke-dasharray="1, 2" fill="none" stroke-width="1" stroke="#000000" points="165,519 183,519" />
+			<polyline fill="none" stroke-width="1" stroke="#000000" points="-5,10 0,0 5,10" />
+			
+		</g>
+		<g id="_DN-6tUFCEDSL87uVq2dOcw">
+			<polyline stroke-dasharray="1, 2" fill="none" stroke-width="1" stroke="#000000" points="183,519 183,534" />
+			<g id="_DN-6tUFCEDSL87uVq2dOcw">
+				<text x="183" y="520" font-style="normal" fill="black">reply6</text>
+				
+			</g>
+			<polyline fill="none" stroke-width="1" stroke="#000000" points="-5,10 0,0 5,10" />
+			
+		</g>
+		<g id="_DN-6tUFCEDSL87uVq2dOcw">
+			<polyline stroke-dasharray="1, 2" fill="none" stroke-width="1" stroke="#000000" points="183,534 158,535" />
+			<g transform="translate(158,535)">
+				<g transform="rotate(-92)">
+					<polyline fill="none" stroke-width="1" stroke="#000000" points="-5,10 0,0 5,10" />
+					
+				</g>
+				
+			</g>
+			
+		</g>
+		<g id="_LlR81kFCEDSL87uVq2dOcw">
+			<polyline stroke-dasharray="1, 2" fill="none" stroke-width="1" stroke="#000000" points="481,484 165,484" />
+			<g transform="translate(165,484)">
+				<g transform="rotate(-90)">
+					<polyline fill="none" stroke-width="1" stroke="#000000" points="-5,10 0,0 5,10" />
+					
+				</g>
+				
+			</g>
+			
+		</g>
+		<g id="_LlSj4EFCEDSL87uVq2dOcw">
+			<polyline fill="none" stroke-width="1" stroke="#000000" points="165,404 481,404" />
+			<g id="_LlSj4EFCEDSL87uVq2dOcw">
+				<text x="272" y="397" font-style="normal" fill="black">getPanShapesFromDatabase</text>
+				
+			</g>
+			<g transform="translate(481,404)">
+				<g transform="rotate(90)">
+					<polyline fill="#000000" stroke-width="1" stroke="#000000" points="-4,12 0,0 4,12 -4,12" />
+					
+				</g>
+				
+			</g>
+			
+		</g>
+		<g id="_O99v4kFCEDSL87uVq2dOcw">
+			<polyline fill="none" stroke-width="1" stroke="#000000" points="158,565 190,564" />
+			
+		</g>
+		<g id="_O99v4kFCEDSL87uVq2dOcw">
+			<polyline fill="none" stroke-width="1" stroke="#000000" points="190,564 190,579" />
+			<g id="_O99v4kFCEDSL87uVq2dOcw">
+				<text x="190" y="565" font-style="normal" fill="black">getCakeDesigns</text>
+				
+			</g>
+			
+		</g>
+		<g id="_O99v4kFCEDSL87uVq2dOcw">
+			<polyline fill="none" stroke-width="1" stroke="#000000" points="190,579 165,579" />
+			<g transform="translate(165,579)">
+				<g transform="rotate(-90)">
+					<polyline fill="#000000" stroke-width="1" stroke="#000000" points="-4,12 0,0 4,12 -4,12" />
+					
+				</g>
+				
+			</g>
+			
+		</g>
+		<g id="_O99v4UFCEDSL87uVq2dOcw">
+			<polyline stroke-dasharray="1, 2" fill="none" stroke-width="1" stroke="#000000" points="165,739 183,739" />
+			<polyline fill="none" stroke-width="1" stroke="#000000" points="-5,10 0,0 5,10" />
+			
+		</g>
+		<g id="_O99v4UFCEDSL87uVq2dOcw">
+			<polyline stroke-dasharray="1, 2" fill="none" stroke-width="1" stroke="#000000" points="183,739 183,754" />
+			<g id="_O99v4UFCEDSL87uVq2dOcw">
+				<text x="183" y="740" font-style="normal" fill="black">reply9</text>
+				
+			</g>
+			<polyline fill="none" stroke-width="1" stroke="#000000" points="-5,10 0,0 5,10" />
+			
+		</g>
+		<g id="_O99v4UFCEDSL87uVq2dOcw">
+			<polyline stroke-dasharray="1, 2" fill="none" stroke-width="1" stroke="#000000" points="183,754 158,755" />
+			<g transform="translate(158,755)">
+				<g transform="rotate(-92)">
+					<polyline fill="none" stroke-width="1" stroke="#000000" points="-5,10 0,0 5,10" />
+					
+				</g>
+				
+			</g>
+			
+		</g>
+		<g id="_QnB_dkFCEDSL87uVq2dOcw">
+			<polyline stroke-dasharray="1, 2" fill="none" stroke-width="1" stroke="#000000" points="481,711 165,711" />
+			<g transform="translate(165,711)">
+				<g transform="rotate(-90)">
+					<polyline fill="none" stroke-width="1" stroke="#000000" points="-5,10 0,0 5,10" />
+					
+				</g>
+				
+			</g>
+			
+		</g>
+		<g id="_QnB_d0FCEDSL87uVq2dOcw">
+			<polyline fill="none" stroke-width="1" stroke="#000000" points="165,611 481,611" />
+			<g id="_QnB_d0FCEDSL87uVq2dOcw">
+				<text x="222" y="604" font-style="normal" fill="black">getAllCakeDesignsFromDatabase</text>
+				
+			</g>
+			<g transform="translate(481,611)">
+				<g transform="rotate(90)">
+					<polyline fill="#000000" stroke-width="1" stroke="#000000" points="-4,12 0,0 4,12 -4,12" />
+					
+				</g>
+				
+			</g>
+			
+		</g>
+		<g id="_XRqEYEFCEDSL87uVq2dOcw">
+			<polyline fill="none" stroke-width="1" stroke="#000000" points="158,773 190,772" />
+			
+		</g>
+		<g id="_XRqEYEFCEDSL87uVq2dOcw">
+			<polyline fill="none" stroke-width="1" stroke="#000000" points="190,772 190,787" />
+			<g id="_XRqEYEFCEDSL87uVq2dOcw">
+				<text x="190" y="773" font-style="normal" fill="black">getCakeStyles</text>
+				
+			</g>
+			
+		</g>
+		<g id="_XRqEYEFCEDSL87uVq2dOcw">
+			<polyline fill="none" stroke-width="1" stroke="#000000" points="190,787 165,787" />
+			<g transform="translate(165,787)">
+				<g transform="rotate(-90)">
+					<polyline fill="#000000" stroke-width="1" stroke="#000000" points="-4,12 0,0 4,12 -4,12" />
+					
+				</g>
+				
+			</g>
+			
+		</g>
+		<g id="_XRpdVEFCEDSL87uVq2dOcw">
+			<polyline stroke-dasharray="1, 2" fill="none" stroke-width="1" stroke="#000000" points="165,927 183,927" />
+			<polyline fill="none" stroke-width="1" stroke="#000000" points="-5,10 0,0 5,10" />
+			
+		</g>
+		<g id="_XRpdVEFCEDSL87uVq2dOcw">
+			<polyline stroke-dasharray="1, 2" fill="none" stroke-width="1" stroke="#000000" points="183,927 183,942" />
+			<g id="_XRpdVEFCEDSL87uVq2dOcw">
+				<text x="183" y="928" font-style="normal" fill="black">reply12</text>
+				
+			</g>
+			<polyline fill="none" stroke-width="1" stroke="#000000" points="-5,10 0,0 5,10" />
+			
+		</g>
+		<g id="_XRpdVEFCEDSL87uVq2dOcw">
+			<polyline stroke-dasharray="1, 2" fill="none" stroke-width="1" stroke="#000000" points="183,942 158,943" />
+			<g transform="translate(158,943)">
+				<g transform="rotate(-92)">
+					<polyline fill="none" stroke-width="1" stroke="#000000" points="-5,10 0,0 5,10" />
+					
+				</g>
+				
+			</g>
+			
+		</g>
+		<g id="_atRPpEFCEDSL87uVq2dOcw">
+			<polyline stroke-dasharray="1, 2" fill="none" stroke-width="1" stroke="#000000" points="481,918 165,918" />
+			<g transform="translate(165,918)">
+				<g transform="rotate(-90)">
+					<polyline fill="none" stroke-width="1" stroke="#000000" points="-5,10 0,0 5,10" />
+					
+				</g>
+				
+			</g>
+			
+		</g>
+		<g id="_atSdwEFCEDSL87uVq2dOcw">
+			<polyline fill="none" stroke-width="1" stroke="#000000" points="165,818 481,818" />
+			<g id="_atSdwEFCEDSL87uVq2dOcw">
+				<text x="252" y="811" font-style="normal" fill="black">getCakeStylesFromDatabase</text>
+				
+			</g>
+			<g transform="translate(481,818)">
+				<g transform="rotate(90)">
+					<polyline fill="#000000" stroke-width="1" stroke="#000000" points="-4,12 0,0 4,12 -4,12" />
+					
+				</g>
+				
+			</g>
+			
+		</g>
+		<g id="_gJGmNkFCEDSL87uVq2dOcw">
+			<polyline fill="none" stroke-width="1" stroke="#000000" points="158,958 190,957" />
+			
+		</g>
+		<g id="_gJGmNkFCEDSL87uVq2dOcw">
+			<polyline fill="none" stroke-width="1" stroke="#000000" points="190,957 190,972" />
+			<g id="_gJGmNkFCEDSL87uVq2dOcw">
+				<text x="190" y="958" font-style="normal" fill="black">getCakeFlavours</text>
+				
+			</g>
+			
+		</g>
+		<g id="_gJGmNkFCEDSL87uVq2dOcw">
+			<polyline fill="none" stroke-width="1" stroke="#000000" points="190,972 165,972" />
+			<g transform="translate(165,972)">
+				<g transform="rotate(-90)">
+					<polyline fill="#000000" stroke-width="1" stroke="#000000" points="-4,12 0,0 4,12 -4,12" />
+					
+				</g>
+				
+			</g>
+			
+		</g>
+		<g id="_gJGmNUFCEDSL87uVq2dOcw">
+			<polyline stroke-dasharray="1, 2" fill="none" stroke-width="1" stroke="#000000" points="165,1132 183,1132" />
+			<polyline fill="none" stroke-width="1" stroke="#000000" points="-5,10 0,0 5,10" />
+			
+		</g>
+		<g id="_gJGmNUFCEDSL87uVq2dOcw">
+			<polyline stroke-dasharray="1, 2" fill="none" stroke-width="1" stroke="#000000" points="183,1132 183,1147" />
+			<g id="_gJGmNUFCEDSL87uVq2dOcw">
+				<text x="183" y="1133" font-style="normal" fill="black">reply15</text>
+				
+			</g>
+			<polyline fill="none" stroke-width="1" stroke="#000000" points="-5,10 0,0 5,10" />
+			
+		</g>
+		<g id="_gJGmNUFCEDSL87uVq2dOcw">
+			<polyline stroke-dasharray="1, 2" fill="none" stroke-width="1" stroke="#000000" points="183,1147 158,1148" />
+			<g transform="translate(158,1148)">
+				<g transform="rotate(-92)">
+					<polyline fill="none" stroke-width="1" stroke="#000000" points="-5,10 0,0 5,10" />
+					
+				</g>
+				
+			</g>
+			
+		</g>
+		<g id="_heKUpEFCEDSL87uVq2dOcw">
+			<polyline stroke-dasharray="1, 2" fill="none" stroke-width="1" stroke="#000000" points="481,1095 165,1095" />
+			<g transform="translate(165,1095)">
+				<g transform="rotate(-90)">
+					<polyline fill="none" stroke-width="1" stroke="#000000" points="-5,10 0,0 5,10" />
+					
+				</g>
+				
+			</g>
+			
+		</g>
+		<g id="_heK7sEFCEDSL87uVq2dOcw">
+			<polyline fill="none" stroke-width="1" stroke="#000000" points="165,995 481,995" />
+			<g id="_heK7sEFCEDSL87uVq2dOcw">
+				<text x="272" y="988" font-style="normal" fill="black">getCakeFlavoursInDatabase</text>
+				
+			</g>
+			<g transform="translate(481,995)">
+				<g transform="rotate(90)">
+					<polyline fill="#000000" stroke-width="1" stroke="#000000" points="-4,12 0,0 4,12 -4,12" />
+					
+				</g>
+				
+			</g>
+			
+		</g>
+		<g id="_xJGjgEFCEDSL87uVq2dOcw">
+			<polyline fill="none" stroke-width="1" stroke="#000000" points="158,1164 190,1163" />
+			
+		</g>
+		<g id="_xJGjgEFCEDSL87uVq2dOcw">
+			<polyline fill="none" stroke-width="1" stroke="#000000" points="190,1163 190,1178" />
+			<g id="_xJGjgEFCEDSL87uVq2dOcw">
+				<text x="190" y="1164" font-style="normal" fill="black">getSelectedCakePrice</text>
+				
+			</g>
+			
+		</g>
+		<g id="_xJGjgEFCEDSL87uVq2dOcw">
+			<polyline fill="none" stroke-width="1" stroke="#000000" points="190,1178 165,1178" />
+			<g transform="translate(165,1178)">
+				<g transform="rotate(-90)">
+					<polyline fill="#000000" stroke-width="1" stroke="#000000" points="-4,12 0,0 4,12 -4,12" />
+					
+				</g>
+				
+			</g>
+			
+		</g>
+		<g id="_xJF8c0FCEDSL87uVq2dOcw">
+			<polyline stroke-dasharray="1, 2" fill="none" stroke-width="1" stroke="#000000" points="165,1308 183,1308" />
+			<polyline fill="none" stroke-width="1" stroke="#000000" points="-5,10 0,0 5,10" />
+			
+		</g>
+		<g id="_xJF8c0FCEDSL87uVq2dOcw">
+			<polyline stroke-dasharray="1, 2" fill="none" stroke-width="1" stroke="#000000" points="183,1308 183,1323" />
+			<g id="_xJF8c0FCEDSL87uVq2dOcw">
+				<text x="183" y="1309" font-style="normal" fill="black">reply18</text>
+				
+			</g>
+			<polyline fill="none" stroke-width="1" stroke="#000000" points="-5,10 0,0 5,10" />
+			
+		</g>
+		<g id="_xJF8c0FCEDSL87uVq2dOcw">
+			<polyline stroke-dasharray="1, 2" fill="none" stroke-width="1" stroke="#000000" points="183,1323 158,1324" />
+			<g transform="translate(158,1324)">
+				<g transform="rotate(-92)">
+					<polyline fill="none" stroke-width="1" stroke="#000000" points="-5,10 0,0 5,10" />
+					
+				</g>
+				
+			</g>
+			
+		</g>
+		<g id="_5aWoAEFCEDSL87uVq2dOcw">
+			<polyline stroke-dasharray="1, 2" fill="none" stroke-width="1" stroke="#000000" points="1155,1292 165,1292" />
+			<g transform="translate(165,1292)">
+				<g transform="rotate(-90)">
+					<polyline fill="none" stroke-width="1" stroke="#000000" points="-5,10 0,0 5,10" />
+					
+				</g>
+				
+			</g>
+			
+		</g>
+		<g id="_5aXPEEFCEDSL87uVq2dOcw">
+			<polyline fill="none" stroke-width="1" stroke="#000000" points="165,1199 1155,1199" />
+			<g id="_5aXPEEFCEDSL87uVq2dOcw">
+				<text x="661" y="1192" font-style="normal" fill="black">CakePrice</text>
+				
+			</g>
+			<g transform="translate(1155,1199)">
+				<g transform="rotate(90)">
+					<polyline fill="#000000" stroke-width="1" stroke="#000000" points="-4,12 0,0 4,12 -4,12" />
+					
+				</g>
+				
+			</g>
+			
+		</g>
+		<g id="_n-wo8kFEEDSL87uVq2dOcw">
+			<polyline fill="none" stroke-width="1" stroke="#000000" points="158,2647 190,2646" />
+			
+		</g>
+		<g id="_n-wo8kFEEDSL87uVq2dOcw">
+			<polyline fill="none" stroke-width="1" stroke="#000000" points="190,2646 190,2661" />
+			<g id="_n-wo8kFEEDSL87uVq2dOcw">
+				<text x="190" y="2647" font-style="normal" fill="black">isCakePriceValid</text>
+				
+			</g>
+			
+		</g>
+		<g id="_n-wo8kFEEDSL87uVq2dOcw">
+			<polyline fill="none" stroke-width="1" stroke="#000000" points="190,2661 165,2661" />
+			<g transform="translate(165,2661)">
+				<g transform="rotate(-90)">
+					<polyline fill="#000000" stroke-width="1" stroke="#000000" points="-4,12 0,0 4,12 -4,12" />
+					
+				</g>
+				
+			</g>
+			
+		</g>
+		<g id="_n-wo8UFEEDSL87uVq2dOcw">
+			<polyline stroke-dasharray="1, 2" fill="none" stroke-width="1" stroke="#000000" points="165,2684 183,2684" />
+			<polyline fill="none" stroke-width="1" stroke="#000000" points="-5,10 0,0 5,10" />
+			
+		</g>
+		<g id="_n-wo8UFEEDSL87uVq2dOcw">
+			<polyline stroke-dasharray="1, 2" fill="none" stroke-width="1" stroke="#000000" points="183,2684 183,2699" />
+			<g id="_n-wo8UFEEDSL87uVq2dOcw">
+				<text x="183" y="2685" font-style="normal" fill="black">reply40</text>
+				
+			</g>
+			<polyline fill="none" stroke-width="1" stroke="#000000" points="-5,10 0,0 5,10" />
+			
+		</g>
+		<g id="_n-wo8UFEEDSL87uVq2dOcw">
+			<polyline stroke-dasharray="1, 2" fill="none" stroke-width="1" stroke="#000000" points="183,2699 158,2700" />
+			<g transform="translate(158,2700)">
+				<g transform="rotate(-92)">
+					<polyline fill="none" stroke-width="1" stroke="#000000" points="-5,10 0,0 5,10" />
+					
+				</g>
+				
+			</g>
+			
+		</g>
+		<g id="_yC0u4EFEEDSL87uVq2dOcw">
+			<polyline fill="none" stroke-width="1" stroke="#000000" points="158,2808 190,2807" />
+			
+		</g>
+		<g id="_yC0u4EFEEDSL87uVq2dOcw">
+			<polyline fill="none" stroke-width="1" stroke="#000000" points="190,2807 190,2822" />
+			<g id="_yC0u4EFEEDSL87uVq2dOcw">
+				<text x="190" y="2808" font-style="normal" fill="black">saveCakePriceInHistory</text>
+				
+			</g>
+			
+		</g>
+		<g id="_yC0u4EFEEDSL87uVq2dOcw">
+			<polyline fill="none" stroke-width="1" stroke="#000000" points="190,2822 165,2822" />
+			<g transform="translate(165,2822)">
+				<g transform="rotate(-90)">
+					<polyline fill="#000000" stroke-width="1" stroke="#000000" points="-4,12 0,0 4,12 -4,12" />
+					
+				</g>
+				
+			</g>
+			
+		</g>
+		<g id="_yC0H1UFEEDSL87uVq2dOcw">
+			<polyline stroke-dasharray="1, 2" fill="none" stroke-width="1" stroke="#000000" points="165,2982 183,2982" />
+			<polyline fill="none" stroke-width="1" stroke="#000000" points="-5,10 0,0 5,10" />
+			
+		</g>
+		<g id="_yC0H1UFEEDSL87uVq2dOcw">
+			<polyline stroke-dasharray="1, 2" fill="none" stroke-width="1" stroke="#000000" points="183,2982 183,2997" />
+			<g id="_yC0H1UFEEDSL87uVq2dOcw">
+				<text x="183" y="2983" font-style="normal" fill="black">reply42</text>
+				
+			</g>
+			<polyline fill="none" stroke-width="1" stroke="#000000" points="-5,10 0,0 5,10" />
+			
+		</g>
+		<g id="_yC0H1UFEEDSL87uVq2dOcw">
+			<polyline stroke-dasharray="1, 2" fill="none" stroke-width="1" stroke="#000000" points="183,2997 158,2998" />
+			<g transform="translate(158,2998)">
+				<g transform="rotate(-92)">
+					<polyline fill="none" stroke-width="1" stroke="#000000" points="-5,10 0,0 5,10" />
+					
+				</g>
+				
+			</g>
+			
+		</g>
+		<g id="_0ZfEREFEEDSL87uVq2dOcw">
+			<polyline stroke-dasharray="1, 2" fill="none" stroke-width="1" stroke="#000000" points="729,2964 165,2964" />
+			<g transform="translate(165,2964)">
+				<g transform="rotate(-90)">
+					<polyline fill="none" stroke-width="1" stroke="#000000" points="-5,10 0,0 5,10" />
+					
+				</g>
+				
+			</g>
+			
+		</g>
+		<g id="_0ZfrUEFEEDSL87uVq2dOcw">
+			<polyline fill="none" stroke-width="1" stroke="#000000" points="165,2834 729,2834" />
+			<g id="_0ZfrUEFEEDSL87uVq2dOcw">
+				<text x="447" y="2827" font-style="normal" fill="black">saveCakePriceInHistory</text>
+				
+			</g>
+			<g transform="translate(729,2834)">
+				<g transform="rotate(90)">
+					<polyline fill="#000000" stroke-width="1" stroke="#000000" points="-4,12 0,0 4,12 -4,12" />
+					
+				</g>
+				
+			</g>
+			
+		</g>
+		<text x="619" y="288" fill="#000000">reply5</text>
+		<text x="615" y="465" fill="#000000">reply8</text>
+		<text x="619" y="677" fill="#000000">reply11</text>
+		<text x="619" y="894" fill="#000000">reply14</text>
+		<text x="619" y="1069" fill="#000000">reply17</text>
+		<text x="663" y="2526" fill="#000000">reply21</text>
+		<text x="558" y="2624" fill="#000000">reply39</text>
+		<text x="862" y="2771" fill="#000000">reply41</text>
+		<text x="329" y="306" fill="#000000">reply4</text>
+		<text x="329" y="480" fill="#000000">reply7</text>
+		<text x="329" y="707" fill="#000000">reply10</text>
+		<text x="329" y="914" fill="#000000">reply13</text>
+		<text x="329" y="1091" fill="#000000">reply16</text>
+		<text x="666" y="1288" fill="#000000">reply19</text>
+		<text x="453" y="2960" fill="#000000">reply43</text>
+		
+	</g>
+	
+</svg>
